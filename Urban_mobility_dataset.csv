@@ -1,0 +1,501 @@
+RouteID,Source Location,Destination Location,Date,Time,Day,Month,Quarter,Passenger Count,Traffic Volume,Cars,Trucks,Bikes,Buses,Average Speed,Travel Time,Traffic Level,Weather,Temperature,Humidity,Rainfall,Accident Reported,Traffic Incidents,Signal Status,Population,Population Density,Road Condition,Public Transport Usage,AQI,Peak Hour,Time Period,Is Weekend
+RT0001,LB Nagar,Koti,2025-03-18,0:00,Tuesday,March,Q1,1216,366,155,38,121,52,32,36.6,Low,Clear,20,40,0.7,No,0,Malfunctioning,738508,9515,Poor,959,96,No,Night,No
+RT0002,Gachibowli,Hitech City,2025-07-09,21:00,Wednesday,July,Q3,592,505,246,53,192,14,33,14.2,Medium,Clear,31,89,1,No,0,Working,631741,20571,Poor,355,136,No,Night,No
+RT0003,Dilsukhnagar,Abids,2025-07-20,3:30,Sunday,July,Q3,1201,266,128,18,73,47,32,48.5,Low,Clear,32,52,1.4,No,1,Malfunctioning,538162,14641,Poor,529,211,No,Night,Yes
+RT0004,Kondapur,Gachibowli,2025-02-18,17:15,Tuesday,February,Q1,1140,661,453,41,133,34,35,41,Medium,Cloudy,30,88,2.3,Yes,1,Working,480776,16145,Poor,648,56,Yes,Evening,No
+RT0005,Uppal,Hitech City,2025-08-03,19:15,Sunday,August,Q3,605,494,282,68,123,21,32,34.3,Medium,Foggy,33,72,1.2,No,1,Working,684277,19171,Good,286,233,Yes,Evening,Yes
+RT0006,Mehdipatnam,Jubilee Hills,2025-04-15,8:15,Tuesday,April,Q2,1372,679,385,18,247,29,31,21.3,Medium,Foggy,20,78,2.2,No,4,Malfunctioning,429786,24003,Average,796,68,Yes,Morning,No
+RT0007,Hyderabad,Secunderabad,2025-04-18,23:45,Friday,April,Q2,987,416,164,74,141,37,39,47.9,Medium,Foggy,26,44,1.1,No,4,Working,150599,22626,Good,763,165,No,Night,No
+RT0008,Miyapur,Ameerpet,2025-09-05,19:30,Friday,September,Q3,654,499,109,40,340,10,17,54,Medium,Foggy,24,43,2,No,1,Under Maintenance,427932,20290,Poor,966,94,Yes,Evening,No
+RT0009,Mehdipatnam,Jubilee Hills,2025-05-18,7:30,Sunday,May,Q2,991,634,221,66,314,33,37,12.9,Medium,Clear,38,70,0.7,No,0,Working,892225,23679,Good,220,98,No,Early Morning,Yes
+RT0010,Kondapur,Gachibowli,2025-08-14,13:00,Thursday,August,Q3,927,512,151,45,298,18,53,52.1,Medium,Foggy,38,65,0.7,No,3,Malfunctioning,349659,6090,Average,298,208,No,Afternoon,No
+RT0011,Uppal,Hitech City,2025-10-17,3:45,Friday,October,Q4,878,190,57,22,81,30,37,18.6,Low,Foggy,34,43,1.3,No,1,Under Maintenance,229046,17520,Poor,300,52,No,Night,No
+RT0012,Miyapur,Ameerpet,2025-01-11,1:00,Saturday,January,Q1,1155,510,115,62,298,35,58,12.6,Medium,Partly Cloudy,20,59,0.8,No,3,Working,449105,16861,Average,1096,79,No,Night,Yes
+RT0013,Dilsukhnagar,Abids,2025-05-29,14:00,Thursday,May,Q2,485,198,61,50,79,8,46,51.4,Low,Foggy,25,38,2.9,No,1,Working,221849,22498,Average,239,212,No,Afternoon,No
+RT0014,Dilsukhnagar,Abids,2025-03-23,20:15,Sunday,March,Q1,1278,521,384,15,91,31,31,24.2,Medium,Rainy,26,77,17.9,No,3,Malfunctioning,287235,24151,Good,714,157,Yes,Evening,Yes
+RT0015,Dilsukhnagar,Abids,2025-01-07,8:45,Tuesday,January,Q1,1055,516,368,22,87,39,23,16,Medium,Rainy,22,50,9.2,No,4,Under Maintenance,887715,12912,Poor,1183,42,Yes,Morning,No
+RT0016,Gachibowli,Hitech City,2025-07-24,9:00,Thursday,July,Q3,1827,395,215,24,104,52,23,22.7,Low,Cloudy,30,48,2.1,No,4,Under Maintenance,662262,11228,Average,204,63,Yes,Morning,No
+RT0017,Hyderabad,Secunderabad,2025-07-08,21:00,Tuesday,July,Q3,780,425,200,26,184,15,52,29.2,Medium,Clear,23,39,2.8,No,1,Under Maintenance,722092,4180,Good,856,189,No,Night,No
+RT0018,Hyderabad,Secunderabad,2025-10-21,9:15,Tuesday,October,Q4,720,390,237,56,70,27,18,25.9,Low,Foggy,33,74,2.2,No,1,Working,320395,8801,Poor,944,46,Yes,Morning,No
+RT0019,Miyapur,Ameerpet,2025-08-15,18:45,Friday,August,Q3,709,380,216,30,105,29,22,19,Low,Partly Cloudy,31,54,2.5,No,1,Malfunctioning,174813,24627,Average,495,142,Yes,Evening,No
+RT0020,Begumpet,Banjara Hills,2025-02-17,9:30,Monday,February,Q1,1894,785,408,75,254,48,15,15.2,High,Rainy,25,72,24.1,No,0,Malfunctioning,775550,17239,Average,807,226,Yes,Morning,No
+RT0021,Mehdipatnam,Jubilee Hills,2025-12-16,3:00,Tuesday,December,Q4,1492,291,127,42,72,50,46,51.7,Low,Foggy,26,58,1.3,No,2,Malfunctioning,803425,13286,Poor,355,224,No,Night,No
+RT0022,Begumpet,Banjara Hills,2025-07-31,3:45,Thursday,July,Q3,733,629,236,47,333,13,51,52.3,Medium,Cloudy,38,54,1.2,No,2,Under Maintenance,450850,9887,Poor,980,241,No,Night,No
+RT0023,Uppal,Hitech City,2025-08-08,23:45,Friday,August,Q3,1052,639,256,37,311,35,39,33.2,Medium,Foggy,30,40,2.5,No,5,Working,475498,10361,Good,507,77,No,Night,No
+RT0024,Dilsukhnagar,Abids,2025-06-17,3:45,Tuesday,June,Q2,1816,442,67,68,262,45,52,41.3,Medium,Partly Cloudy,32,50,0.4,No,0,Under Maintenance,595798,10170,Poor,460,245,No,Night,No
+RT0025,Kondapur,Gachibowli,2025-11-14,3:00,Friday,November,Q4,815,478,157,25,283,13,47,36.8,Medium,Partly Cloudy,36,62,2.5,No,1,Working,647732,17747,Poor,630,232,No,Night,No
+RT0026,Miyapur,Ameerpet,2025-07-09,7:45,Wednesday,July,Q3,1369,375,170,66,89,50,38,25.1,Low,Foggy,22,43,0.5,No,1,Malfunctioning,890734,10010,Average,231,146,No,Early Morning,No
+RT0027,Hyderabad,Secunderabad,2025-11-15,1:45,Saturday,November,Q4,2056,501,135,63,249,54,57,49.6,Medium,Foggy,32,65,0,No,3,Working,589375,20636,Average,551,164,No,Night,Yes
+RT0028,Hyderabad,Secunderabad,2025-10-25,12:45,Saturday,October,Q4,1416,590,229,53,257,51,59,15.7,Medium,Foggy,37,36,2.7,No,5,Malfunctioning,178418,5750,Good,977,74,No,Afternoon,Yes
+RT0029,Mehdipatnam,Jubilee Hills,2025-02-04,7:30,Tuesday,February,Q1,1024,541,197,37,282,25,38,43.8,Medium,Partly Cloudy,28,88,0.2,Yes,1,Under Maintenance,516960,10347,Good,240,239,No,Early Morning,No
+RT0030,Miyapur,Ameerpet,2025-01-22,4:15,Wednesday,January,Q1,649,277,40,89,128,20,51,15.1,Low,Cloudy,34,79,0.8,No,4,Working,786745,6753,Poor,435,119,No,Night,No
+RT0031,Dilsukhnagar,Abids,2025-01-18,12:30,Saturday,January,Q1,628,442,222,60,151,9,37,14.6,Medium,Rainy,23,85,24.6,No,2,Under Maintenance,708623,17037,Poor,858,57,No,Afternoon,Yes
+RT0032,Mehdipatnam,Jubilee Hills,2025-08-21,22:00,Thursday,August,Q3,1388,602,280,23,271,28,52,16.9,Medium,Cloudy,36,76,0.8,No,4,Under Maintenance,656983,18232,Average,992,227,No,Night,No
+RT0033,Kukatpally,Madhapur,2025-08-09,0:15,Saturday,August,Q3,1876,466,172,67,174,53,49,40.1,Medium,Rainy,20,66,21.3,No,1,Under Maintenance,522060,11465,Poor,797,111,No,Night,Yes
+RT0034,Kondapur,Gachibowli,2025-07-08,14:00,Tuesday,July,Q3,1746,371,127,20,173,51,47,44.1,Low,Partly Cloudy,35,63,2.4,No,1,Under Maintenance,574045,10972,Average,727,209,No,Afternoon,No
+RT0035,Mehdipatnam,Jubilee Hills,2025-11-20,1:30,Thursday,November,Q4,894,558,199,55,282,22,37,15.4,Medium,Cloudy,30,42,2.2,No,5,Malfunctioning,344143,9276,Average,543,229,No,Night,No
+RT0036,Kukatpally,Madhapur,2025-12-25,3:30,Thursday,December,Q4,823,370,129,47,166,28,30,41.9,Low,Cloudy,28,37,2.9,No,5,Working,282413,23901,Poor,1105,66,No,Night,No
+RT0037,Uppal,Hitech City,2025-07-14,2:45,Monday,July,Q3,470,460,255,53,144,8,33,47,Medium,Partly Cloudy,35,39,1.7,No,1,Working,306445,21443,Good,722,61,No,Night,No
+RT0038,Kondapur,Gachibowli,2025-10-12,2:15,Sunday,October,Q4,1197,591,224,67,276,24,39,35.6,Medium,Clear,23,83,0.6,No,5,Under Maintenance,235131,8146,Good,591,84,No,Night,Yes
+RT0039,Mehdipatnam,Jubilee Hills,2025-04-17,20:00,Thursday,April,Q2,737,709,310,86,290,23,24,41.8,High,Partly Cloudy,22,78,0.7,No,5,Working,768439,24665,Poor,505,148,Yes,Evening,No
+RT0040,LB Nagar,Koti,2025-06-03,11:15,Tuesday,June,Q2,612,216,102,19,80,15,53,47.1,Low,Rainy,34,42,11.7,No,3,Working,435470,19399,Poor,1111,152,No,Morning,No
+RT0041,Begumpet,Banjara Hills,2025-01-28,5:45,Tuesday,January,Q1,893,286,158,13,96,19,60,10.9,Low,Rainy,38,37,19.1,No,4,Under Maintenance,833157,17490,Average,669,86,No,Early Morning,No
+RT0042,Uppal,Hitech City,2025-12-02,16:00,Tuesday,December,Q4,731,515,208,62,220,25,40,28.5,Medium,Partly Cloudy,29,77,2.8,No,4,Malfunctioning,188479,17903,Average,280,120,No,Afternoon,No
+RT0043,Kondapur,Gachibowli,2025-03-21,3:45,Friday,March,Q1,850,426,30,79,286,31,46,26.3,Medium,Partly Cloudy,34,83,0.2,No,1,Working,452020,17356,Poor,1092,71,No,Night,No
+RT0044,LB Nagar,Koti,2025-06-13,8:15,Friday,June,Q2,936,736,362,11,332,31,18,30.8,High,Clear,24,66,2.8,No,5,Working,436706,16614,Average,1088,160,Yes,Morning,No
+RT0045,Miyapur,Ameerpet,2025-04-09,17:45,Wednesday,April,Q2,1229,640,386,75,119,60,28,25.3,Medium,Foggy,28,87,0,No,4,Malfunctioning,758093,24624,Poor,1102,78,Yes,Evening,No
+RT0046,Begumpet,Banjara Hills,2025-11-27,15:30,Thursday,November,Q4,1555,565,223,68,214,60,48,27.2,Medium,Partly Cloudy,21,55,2.2,No,3,Working,554832,24747,Good,411,166,No,Afternoon,No
+RT0047,Kukatpally,Madhapur,2025-12-09,21:30,Tuesday,December,Q4,885,630,255,22,319,34,43,49.2,Medium,Cloudy,22,65,2.3,No,4,Under Maintenance,876353,16024,Poor,264,124,No,Night,No
+RT0048,Uppal,Hitech City,2025-09-17,10:30,Wednesday,September,Q3,878,476,357,14,85,20,22,43.6,Medium,Partly Cloudy,23,83,1.9,No,3,Malfunctioning,324446,12812,Good,159,51,Yes,Morning,No
+RT0049,Begumpet,Banjara Hills,2025-07-20,6:30,Sunday,July,Q3,1403,491,250,28,175,38,51,45.7,Medium,Cloudy,25,40,1.8,No,5,Malfunctioning,402528,19307,Poor,393,99,No,Early Morning,Yes
+RT0050,LB Nagar,Koti,2025-06-23,9:45,Monday,June,Q2,1084,743,421,11,288,23,17,29.9,High,Rainy,38,54,16,No,2,Malfunctioning,629027,12899,Good,507,138,Yes,Morning,No
+RT0051,Dilsukhnagar,Abids,2025-06-11,22:45,Wednesday,June,Q2,1402,546,213,83,201,49,56,39.6,Medium,Rainy,20,71,21.6,No,0,Working,785863,19276,Poor,686,238,No,Night,No
+RT0052,Miyapur,Ameerpet,2025-08-29,12:15,Friday,August,Q3,1704,329,158,27,99,45,39,45.5,Low,Clear,38,58,2.2,No,2,Working,492589,16615,Poor,459,91,No,Afternoon,No
+RT0053,Gachibowli,Hitech City,2025-09-07,18:30,Sunday,September,Q3,1550,535,211,71,201,52,29,53.3,Medium,Cloudy,27,90,2,No,3,Malfunctioning,734384,14985,Good,284,242,Yes,Evening,Yes
+RT0054,Uppal,Hitech City,2025-06-30,12:00,Monday,June,Q2,1479,639,218,43,349,29,33,40.4,Medium,Partly Cloudy,20,74,2.7,No,4,Malfunctioning,382120,24222,Poor,229,202,No,Afternoon,No
+RT0055,Kukatpally,Madhapur,2025-07-26,7:45,Saturday,July,Q3,838,209,101,15,69,24,33,20.6,Low,Foggy,24,59,1.4,No,5,Under Maintenance,880316,20701,Poor,958,190,No,Early Morning,Yes
+RT0056,Kukatpally,Madhapur,2025-04-16,11:45,Wednesday,April,Q2,724,648,280,88,258,22,36,30,Medium,Cloudy,31,41,2.9,No,5,Working,526096,4984,Good,915,110,No,Morning,No
+RT0057,Miyapur,Ameerpet,2025-11-07,10:00,Friday,November,Q4,342,562,408,86,60,8,19,45.4,Medium,Cloudy,22,88,2.3,No,1,Under Maintenance,394316,13766,Good,402,241,Yes,Morning,No
+RT0058,Gachibowli,Hitech City,2025-07-09,6:15,Wednesday,July,Q3,864,343,158,32,106,47,30,26.1,Low,Cloudy,38,55,0,No,1,Working,591409,20238,Average,332,230,No,Early Morning,No
+RT0059,Kondapur,Gachibowli,2025-11-03,0:30,Monday,November,Q4,984,478,85,67,307,19,53,45.2,Medium,Foggy,29,64,1.9,Yes,8,Under Maintenance,571126,16968,Average,321,165,No,Night,No
+RT0060,Begumpet,Banjara Hills,2025-02-20,4:00,Thursday,February,Q1,1031,259,105,18,114,22,47,42,Low,Partly Cloudy,36,53,1.4,No,0,Malfunctioning,885869,6749,Good,540,150,No,Night,No
+RT0061,Uppal,Hitech City,2025-10-10,11:30,Friday,October,Q4,898,420,234,63,98,25,51,21.5,Medium,Cloudy,35,39,0.3,No,3,Working,251255,15210,Poor,366,182,No,Morning,No
+RT0062,Mehdipatnam,Jubilee Hills,2025-08-14,0:00,Thursday,August,Q3,957,374,211,64,76,23,41,14.7,Low,Foggy,26,44,2,No,0,Malfunctioning,517121,21227,Poor,852,69,No,Night,No
+RT0063,Kondapur,Gachibowli,2025-06-04,9:45,Wednesday,June,Q2,627,902,472,89,335,6,15,18.1,High,Rainy,30,57,0.2,No,4,Under Maintenance,839275,16132,Poor,242,76,Yes,Morning,No
+RT0064,Kondapur,Gachibowli,2025-01-21,22:00,Tuesday,January,Q1,1174,496,140,58,264,34,41,24,Medium,Rainy,38,73,2.1,Yes,3,Malfunctioning,797850,4630,Poor,267,109,No,Night,No
+RT0065,Dilsukhnagar,Abids,2025-10-17,11:45,Friday,October,Q4,796,526,256,63,189,18,41,29.3,Medium,Rainy,38,66,13.2,No,1,Working,564463,22638,Average,212,41,No,Morning,No
+RT0066,LB Nagar,Koti,2025-05-25,4:15,Sunday,May,Q2,391,345,178,51,111,5,35,15.8,Low,Foggy,27,67,1.7,No,2,Working,225576,16011,Average,186,151,No,Night,Yes
+RT0067,Dilsukhnagar,Abids,2025-02-23,3:30,Sunday,February,Q1,2133,639,249,83,257,50,39,15.2,Medium,Clear,30,45,2.4,No,5,Working,529430,5887,Average,994,67,No,Night,Yes
+RT0068,Mehdipatnam,Jubilee Hills,2025-10-01,8:00,Wednesday,October,Q4,722,480,238,53,163,26,31,38.5,Medium,Foggy,36,47,2.7,No,5,Working,826796,7839,Average,583,66,Yes,Morning,No
+RT0069,Dilsukhnagar,Abids,2025-05-15,16:15,Thursday,May,Q2,2176,321,108,19,140,54,44,44,Low,Foggy,34,78,2.8,No,5,Malfunctioning,804858,13590,Good,747,78,No,Afternoon,No
+RT0070,LB Nagar,Koti,2025-11-17,2:45,Monday,November,Q4,953,360,170,85,78,27,39,30.8,Low,Clear,21,58,2.5,Yes,2,Malfunctioning,794883,22466,Poor,1138,138,No,Night,No
+RT0071,Dilsukhnagar,Abids,2025-01-29,0:45,Wednesday,January,Q1,1031,507,126,51,293,37,44,14.7,Medium,Rainy,22,67,16.2,Yes,8,Working,610767,20172,Average,1170,196,No,Night,No
+RT0072,Mehdipatnam,Jubilee Hills,2025-09-12,12:30,Friday,September,Q3,2106,423,239,53,76,55,32,24.8,Medium,Foggy,32,53,0.8,No,4,Under Maintenance,307677,13923,Good,266,189,No,Afternoon,No
+RT0073,Mehdipatnam,Jubilee Hills,2025-08-27,19:30,Wednesday,August,Q3,977,349,146,86,93,24,35,45.6,Low,Cloudy,36,40,1.9,No,2,Working,169116,14881,Average,732,86,Yes,Evening,No
+RT0074,Miyapur,Ameerpet,2025-11-28,23:15,Friday,November,Q4,652,241,100,29,89,23,54,34.3,Low,Foggy,21,77,1,No,1,Working,776258,15344,Poor,415,81,No,Night,No
+RT0075,Hyderabad,Secunderabad,2025-04-24,0:45,Thursday,April,Q2,1385,500,240,56,171,33,54,43.7,Medium,Partly Cloudy,27,69,0.7,No,3,Malfunctioning,353440,15053,Average,1002,158,No,Night,No
+RT0076,Gachibowli,Hitech City,2025-12-10,7:45,Wednesday,December,Q4,1533,399,132,87,120,60,50,31.6,Low,Rainy,37,41,17.8,No,0,Malfunctioning,448910,5748,Poor,428,109,No,Early Morning,No
+RT0077,Kukatpally,Madhapur,2025-04-11,14:45,Friday,April,Q2,429,444,143,67,228,6,42,32.6,Medium,Cloudy,32,40,1.1,Yes,2,Working,899421,24297,Good,786,242,No,Afternoon,No
+RT0078,Uppal,Hitech City,2025-01-27,3:30,Monday,January,Q1,979,494,101,70,279,44,30,21.5,Medium,Cloudy,37,81,1.8,No,2,Working,399183,12868,Average,349,52,No,Night,No
+RT0079,Kukatpally,Madhapur,2025-11-09,1:00,Sunday,November,Q4,685,701,285,86,324,6,48,20.9,High,Cloudy,29,62,0,No,4,Malfunctioning,586802,9137,Good,275,174,No,Night,Yes
+RT0080,Mehdipatnam,Jubilee Hills,2025-12-26,2:00,Friday,December,Q4,916,561,270,15,248,28,41,45.5,Medium,Rainy,27,81,16.4,No,4,Under Maintenance,498671,7371,Average,190,130,No,Night,No
+RT0081,Uppal,Hitech City,2025-04-30,12:45,Wednesday,April,Q2,1561,282,123,27,82,50,39,19.1,Low,Cloudy,21,55,2.8,No,4,Under Maintenance,646395,11300,Good,174,232,No,Afternoon,No
+RT0082,Hyderabad,Secunderabad,2025-07-15,7:30,Tuesday,July,Q3,1700,412,199,44,113,56,58,28,Medium,Partly Cloudy,32,56,2.9,No,3,Working,535191,20015,Poor,646,245,No,Early Morning,No
+RT0083,Mehdipatnam,Jubilee Hills,2025-10-17,19:00,Friday,October,Q4,950,773,388,33,329,23,17,24.8,High,Rainy,29,63,15.1,No,5,Under Maintenance,615471,14519,Average,1015,50,Yes,Evening,No
+RT0084,Hyderabad,Secunderabad,2025-10-24,22:30,Friday,October,Q4,1003,402,68,61,236,37,34,48.2,Medium,Partly Cloudy,21,43,0.2,No,2,Working,529742,15545,Poor,166,194,No,Night,No
+RT0085,Begumpet,Banjara Hills,2025-11-04,3:30,Tuesday,November,Q4,859,632,257,19,343,13,42,24.1,Medium,Rainy,27,42,0.6,No,4,Malfunctioning,555785,21404,Poor,341,107,No,Night,No
+RT0086,Dilsukhnagar,Abids,2025-11-01,15:15,Saturday,November,Q4,418,412,176,72,152,12,44,17.8,Medium,Partly Cloudy,22,86,2,No,2,Under Maintenance,850280,14384,Average,232,180,No,Afternoon,Yes
+RT0087,Gachibowli,Hitech City,2025-07-24,18:15,Thursday,July,Q3,723,871,486,56,310,19,19,20.7,High,Partly Cloudy,20,58,1.7,No,4,Malfunctioning,286074,23052,Average,276,56,Yes,Evening,No
+RT0088,Mehdipatnam,Jubilee Hills,2025-11-23,18:45,Sunday,November,Q4,1027,532,374,19,114,25,29,31,Medium,Foggy,31,43,2.6,No,5,Under Maintenance,766338,8962,Good,364,150,Yes,Evening,Yes
+RT0089,LB Nagar,Koti,2025-03-26,18:15,Wednesday,March,Q1,1423,459,164,30,215,50,31,50.3,Medium,Clear,28,47,1.9,No,1,Under Maintenance,805383,12922,Poor,1192,63,Yes,Evening,No
+RT0090,Gachibowli,Hitech City,2025-04-26,2:15,Saturday,April,Q2,966,412,202,82,71,57,31,52.7,Medium,Foggy,28,76,0.6,No,4,Under Maintenance,820030,3992,Average,1119,200,No,Night,Yes
+RT0091,Miyapur,Ameerpet,2025-07-26,5:45,Saturday,July,Q3,486,576,237,48,282,9,44,28.7,Medium,Partly Cloudy,26,56,1.8,No,5,Malfunctioning,484827,14317,Poor,916,73,No,Early Morning,Yes
+RT0092,Miyapur,Ameerpet,2025-03-14,11:30,Friday,March,Q1,968,512,268,25,186,33,33,12.3,Medium,Partly Cloudy,33,50,2.9,No,2,Working,755748,13247,Average,488,235,No,Morning,No
+RT0093,Uppal,Hitech City,2025-12-18,9:45,Thursday,December,Q4,480,381,237,73,61,10,29,53.5,Low,Cloudy,38,57,0.1,No,4,Working,836041,18420,Good,685,177,Yes,Morning,No
+RT0094,LB Nagar,Koti,2025-10-22,4:15,Wednesday,October,Q4,459,522,217,61,237,7,48,35.3,Medium,Rainy,37,53,1.8,No,4,Working,443308,23422,Average,343,72,No,Night,No
+RT0095,Kondapur,Gachibowli,2025-09-12,18:30,Friday,September,Q3,1606,489,267,28,151,43,31,11.8,Medium,Clear,24,80,1,No,3,Malfunctioning,306175,22865,Poor,1155,75,Yes,Evening,No
+RT0096,Mehdipatnam,Jubilee Hills,2025-08-06,10:15,Wednesday,August,Q3,1525,702,395,48,222,37,30,41.9,High,Rainy,35,87,0.4,No,0,Under Maintenance,586774,22126,Poor,730,243,Yes,Morning,No
+RT0097,LB Nagar,Koti,2025-01-19,4:45,Sunday,January,Q1,1202,545,146,16,348,35,50,42.5,Medium,Partly Cloudy,24,87,2,Yes,2,Malfunctioning,350051,3620,Good,1003,120,No,Night,Yes
+RT0098,Mehdipatnam,Jubilee Hills,2025-10-09,21:15,Thursday,October,Q4,1306,725,286,88,291,60,46,19.3,High,Rainy,35,68,9.4,No,3,Under Maintenance,709024,14217,Poor,825,213,No,Night,No
+RT0099,Miyapur,Ameerpet,2025-06-30,11:45,Monday,June,Q2,959,560,156,45,335,24,54,23,Medium,Cloudy,35,55,1.4,No,5,Under Maintenance,436741,12430,Poor,349,186,No,Morning,No
+RT0100,Begumpet,Banjara Hills,2025-09-17,4:45,Wednesday,September,Q3,570,245,104,47,71,23,59,29.9,Low,Rainy,35,48,5.1,No,4,Under Maintenance,879988,11900,Poor,381,67,No,Night,No
+RT0101,Hyderabad,Secunderabad,2025-06-13,8:15,Friday,June,Q2,1188,709,422,77,165,45,18,28.6,High,Partly Cloudy,23,78,2.3,Yes,3,Under Maintenance,576673,24393,Good,1074,162,Yes,Morning,No
+RT0102,LB Nagar,Koti,2025-07-16,2:30,Wednesday,July,Q3,980,443,60,21,343,19,59,51.5,Medium,Partly Cloudy,25,37,3,No,3,Malfunctioning,345361,12485,Poor,176,42,No,Night,No
+RT0103,LB Nagar,Koti,2025-03-15,6:30,Saturday,March,Q1,1151,695,262,79,318,36,44,22.3,Medium,Clear,30,45,2.2,No,5,Malfunctioning,345243,3461,Poor,790,242,No,Early Morning,Yes
+RT0104,Dilsukhnagar,Abids,2025-05-12,20:15,Monday,May,Q2,1235,773,407,61,268,37,27,40.1,High,Cloudy,24,65,1,No,2,Malfunctioning,552206,10717,Average,1014,232,Yes,Evening,No
+RT0105,LB Nagar,Koti,2025-07-26,3:00,Saturday,July,Q3,1066,382,214,40,81,47,39,17.2,Low,Foggy,29,79,0.4,No,2,Working,535397,23140,Average,552,96,No,Night,Yes
+RT0106,Dilsukhnagar,Abids,2025-04-15,13:45,Tuesday,April,Q2,1526,650,221,63,331,35,54,21.1,Medium,Foggy,22,68,1.3,No,0,Under Maintenance,741573,6676,Good,226,180,No,Afternoon,No
+RT0107,Begumpet,Banjara Hills,2025-04-13,7:15,Sunday,April,Q2,1286,519,296,66,109,48,45,14.1,Medium,Foggy,34,86,0.2,No,3,Malfunctioning,628987,21478,Poor,218,183,No,Early Morning,Yes
+RT0108,Mehdipatnam,Jubilee Hills,2025-07-30,9:00,Wednesday,July,Q3,906,423,210,10,161,42,28,25.5,Medium,Clear,37,38,2.8,Yes,8,Working,183276,12407,Poor,937,86,Yes,Morning,No
+RT0109,Mehdipatnam,Jubilee Hills,2025-10-14,23:30,Tuesday,October,Q4,616,569,259,58,242,10,50,48.7,Medium,Clear,25,69,1.2,No,1,Under Maintenance,153642,3744,Poor,711,158,No,Night,No
+RT0110,Miyapur,Ameerpet,2025-10-17,12:45,Friday,October,Q4,617,465,156,68,227,14,59,49.4,Medium,Clear,21,86,2,No,0,Under Maintenance,402356,9752,Good,237,65,No,Afternoon,No
+RT0111,Miyapur,Ameerpet,2025-11-01,18:00,Saturday,November,Q4,1139,762,459,15,255,33,21,43.9,High,Clear,24,67,3,No,5,Malfunctioning,754095,13449,Good,756,100,Yes,Evening,Yes
+RT0112,Mehdipatnam,Jubilee Hills,2025-12-22,20:15,Monday,December,Q4,1465,399,233,45,81,40,35,40.5,Low,Foggy,35,38,2.9,No,5,Malfunctioning,549669,20185,Average,752,218,Yes,Evening,No
+RT0113,Mehdipatnam,Jubilee Hills,2025-04-12,20:30,Saturday,April,Q2,828,564,174,78,292,20,19,46.3,Medium,Clear,37,61,2.9,No,1,Malfunctioning,557286,10957,Poor,622,92,Yes,Evening,Yes
+RT0114,Begumpet,Banjara Hills,2025-02-23,23:45,Sunday,February,Q1,447,310,77,78,147,8,51,37.2,Low,Clear,22,47,2.4,No,5,Malfunctioning,735997,10111,Average,1081,93,No,Night,Yes
+RT0115,Miyapur,Ameerpet,2025-01-11,11:15,Saturday,January,Q1,1912,384,90,71,174,49,42,51.2,Low,Foggy,30,84,0.8,No,5,Under Maintenance,526710,13106,Average,635,132,No,Morning,Yes
+RT0116,Uppal,Hitech City,2025-11-15,3:00,Saturday,November,Q4,970,493,193,36,239,25,48,48.9,Medium,Cloudy,20,51,1.7,No,5,Malfunctioning,587862,12672,Good,412,90,No,Night,Yes
+RT0117,Uppal,Hitech City,2025-09-17,7:15,Wednesday,September,Q3,2230,595,202,42,300,51,44,17.6,Medium,Rainy,25,43,18,No,4,Working,822985,4924,Poor,1173,48,No,Early Morning,No
+RT0118,Mehdipatnam,Jubilee Hills,2025-02-03,2:00,Monday,February,Q1,361,367,100,90,168,9,36,32.8,Low,Rainy,21,74,15.9,No,3,Under Maintenance,841309,18986,Poor,132,41,No,Night,No
+RT0119,Hyderabad,Secunderabad,2025-10-08,19:00,Wednesday,October,Q4,817,743,351,45,324,23,28,46.3,High,Cloudy,23,41,1.6,No,4,Malfunctioning,702029,11271,Good,825,108,Yes,Evening,No
+RT0120,Uppal,Hitech City,2025-09-12,16:45,Friday,September,Q3,1047,443,154,38,203,48,32,28.2,Medium,Partly Cloudy,37,65,0.2,Yes,3,Malfunctioning,236702,19379,Poor,988,205,No,Afternoon,No
+RT0121,Miyapur,Ameerpet,2025-03-07,2:00,Friday,March,Q1,684,535,138,82,293,22,51,51.7,Medium,Foggy,38,77,0.1,No,2,Under Maintenance,166418,9788,Average,395,232,No,Night,No
+RT0122,Gachibowli,Hitech City,2025-02-22,12:30,Saturday,February,Q1,1889,532,153,82,249,48,42,44,Medium,Cloudy,22,67,2.2,No,0,Under Maintenance,608320,10606,Poor,255,127,No,Afternoon,Yes
+RT0123,Hyderabad,Secunderabad,2025-09-28,19:30,Sunday,September,Q3,1183,764,404,44,280,36,32,52.4,High,Partly Cloudy,25,78,1.8,No,4,Malfunctioning,459727,11075,Good,250,61,Yes,Evening,Yes
+RT0124,Mehdipatnam,Jubilee Hills,2025-09-17,9:15,Wednesday,September,Q3,352,412,242,56,104,10,29,26.2,Medium,Rainy,23,43,2.2,No,4,Working,731687,19791,Good,935,66,Yes,Morning,No
+RT0125,Dilsukhnagar,Abids,2025-08-30,14:00,Saturday,August,Q3,819,334,196,59,56,23,54,13.8,Low,Foggy,27,71,1.6,No,1,Malfunctioning,295584,11811,Good,716,108,No,Afternoon,Yes
+RT0126,Mehdipatnam,Jubilee Hills,2025-02-13,4:15,Thursday,February,Q1,910,472,171,63,203,35,38,52.5,Medium,Partly Cloudy,26,64,0.3,No,3,Malfunctioning,498354,23322,Average,878,245,No,Night,No
+RT0127,Dilsukhnagar,Abids,2025-08-17,12:45,Sunday,August,Q3,1259,404,99,48,214,43,40,18,Medium,Partly Cloudy,30,53,2.2,No,4,Malfunctioning,404200,13678,Average,870,111,No,Afternoon,Yes
+RT0128,Dilsukhnagar,Abids,2025-03-19,17:15,Wednesday,March,Q1,578,729,359,33,331,6,29,45.9,High,Clear,33,78,1.5,No,1,Malfunctioning,414955,24583,Average,415,223,Yes,Evening,No
+RT0129,Dilsukhnagar,Abids,2025-02-20,11:45,Thursday,February,Q1,1591,653,275,84,255,39,47,11.7,Medium,Rainy,37,73,16,No,1,Under Maintenance,839545,24780,Poor,827,82,No,Morning,No
+RT0130,Begumpet,Banjara Hills,2025-01-31,5:45,Friday,January,Q1,384,339,250,23,55,11,46,43.6,Low,Foggy,38,79,1.7,No,3,Malfunctioning,635556,22286,Good,1124,78,No,Early Morning,No
+RT0131,LB Nagar,Koti,2025-11-26,13:00,Wednesday,November,Q4,1320,429,242,20,109,58,39,25.4,Medium,Cloudy,36,65,1,No,5,Malfunctioning,880609,17825,Good,753,57,No,Afternoon,No
+RT0132,Begumpet,Banjara Hills,2025-03-20,13:00,Thursday,March,Q1,1095,328,85,31,174,38,35,24.9,Low,Partly Cloudy,34,49,2.4,No,1,Working,821590,24538,Poor,985,141,No,Afternoon,No
+RT0133,Dilsukhnagar,Abids,2025-05-15,16:45,Thursday,May,Q2,1174,410,249,59,52,50,38,43.9,Medium,Clear,38,41,2.4,No,2,Malfunctioning,491819,9457,Poor,1037,69,No,Afternoon,No
+RT0134,Dilsukhnagar,Abids,2025-12-01,3:30,Monday,December,Q4,1115,608,228,88,250,42,41,48,Medium,Foggy,25,87,2,No,4,Working,768836,5777,Good,374,120,No,Night,No
+RT0135,Gachibowli,Hitech City,2025-07-28,11:00,Monday,July,Q3,1295,589,221,28,311,29,34,35.9,Medium,Partly Cloudy,25,66,1.9,No,5,Malfunctioning,331649,21183,Good,441,165,No,Morning,No
+RT0136,Uppal,Hitech City,2025-05-08,17:30,Thursday,May,Q2,437,651,397,16,233,5,21,46.7,Medium,Foggy,36,76,1.5,No,3,Working,894638,17544,Poor,1100,82,Yes,Evening,No
+RT0137,LB Nagar,Koti,2025-01-22,1:15,Wednesday,January,Q1,1164,295,46,45,165,39,54,30.6,Low,Partly Cloudy,37,67,0.3,No,4,Under Maintenance,534682,20761,Average,185,234,No,Night,No
+RT0138,Kukatpally,Madhapur,2025-05-30,4:45,Friday,May,Q2,934,303,156,48,66,33,57,46.8,Low,Partly Cloudy,23,84,2.4,No,5,Under Maintenance,766482,14489,Good,976,82,No,Night,No
+RT0139,Hyderabad,Secunderabad,2025-05-22,1:15,Thursday,May,Q2,1632,523,209,78,193,43,40,54.1,Medium,Rainy,29,71,6.7,No,5,Malfunctioning,249850,7442,Poor,942,55,No,Night,No
+RT0140,Miyapur,Ameerpet,2025-03-28,14:15,Friday,March,Q1,1752,384,104,51,176,53,34,36,Low,Rainy,33,59,11.3,No,0,Malfunctioning,572419,19895,Average,669,217,No,Afternoon,No
+RT0141,Dilsukhnagar,Abids,2025-11-30,4:30,Sunday,November,Q4,1490,381,31,21,284,45,55,34,Low,Cloudy,33,87,0.6,No,2,Malfunctioning,504161,20934,Average,367,184,No,Night,Yes
+RT0142,Kukatpally,Madhapur,2025-02-03,1:00,Monday,February,Q1,1425,449,265,12,113,59,44,10,Medium,Partly Cloudy,26,79,2.7,No,2,Malfunctioning,316699,11979,Average,291,207,No,Night,No
+RT0143,Gachibowli,Hitech City,2025-02-26,6:30,Wednesday,February,Q1,1457,373,56,60,206,51,50,14.1,Low,Clear,20,48,1.4,No,1,Under Maintenance,694676,17583,Average,119,42,No,Early Morning,No
+RT0144,Gachibowli,Hitech City,2025-03-24,7:45,Monday,March,Q1,706,489,274,19,167,29,33,24.1,Medium,Rainy,24,59,19.3,No,1,Under Maintenance,822741,7681,Good,240,175,No,Early Morning,No
+RT0145,Begumpet,Banjara Hills,2025-04-23,0:45,Wednesday,April,Q2,1314,387,139,90,127,31,57,19.8,Low,Clear,24,83,0.4,No,2,Malfunctioning,600246,13305,Poor,386,103,No,Night,No
+RT0146,Kondapur,Gachibowli,2025-02-27,12:15,Thursday,February,Q1,937,410,175,13,204,18,46,18.5,Medium,Partly Cloudy,29,76,0.2,No,1,Malfunctioning,668927,15644,Poor,330,101,No,Afternoon,No
+RT0147,Begumpet,Banjara Hills,2025-02-18,11:00,Tuesday,February,Q1,2355,526,192,26,248,60,41,34.6,Medium,Cloudy,35,84,0.2,No,0,Malfunctioning,424921,10069,Poor,181,55,No,Morning,No
+RT0148,Mehdipatnam,Jubilee Hills,2025-07-15,13:45,Tuesday,July,Q3,1709,618,235,20,324,39,38,13.8,Medium,Clear,36,48,2.9,No,2,Under Maintenance,559711,22216,Average,235,119,No,Afternoon,No
+RT0149,Miyapur,Ameerpet,2025-06-12,21:00,Thursday,June,Q2,1440,282,74,65,109,34,31,23.9,Low,Cloudy,23,35,2.1,No,1,Under Maintenance,670526,14360,Average,1171,172,No,Night,No
+RT0150,Gachibowli,Hitech City,2025-04-24,23:30,Thursday,April,Q2,882,283,167,25,65,26,46,12.9,Low,Foggy,22,66,1.4,No,3,Malfunctioning,744423,8468,Good,853,80,No,Night,No
+RT0151,Kondapur,Gachibowli,2025-03-20,17:15,Thursday,March,Q1,516,172,81,15,56,20,26,27.2,Low,Cloudy,25,89,0.1,No,5,Working,837554,16741,Average,559,122,Yes,Evening,No
+RT0152,Kukatpally,Madhapur,2025-08-07,9:30,Thursday,August,Q3,768,577,372,57,111,37,22,46.2,Medium,Clear,32,39,2.6,No,2,Malfunctioning,493199,5830,Good,1035,42,Yes,Morning,No
+RT0153,Dilsukhnagar,Abids,2025-07-19,1:30,Saturday,July,Q3,1568,503,154,69,238,42,53,50.5,Medium,Cloudy,24,35,2.8,Yes,6,Under Maintenance,816833,3314,Average,786,40,No,Night,Yes
+RT0154,Miyapur,Ameerpet,2025-07-29,22:00,Tuesday,July,Q3,544,523,151,63,301,8,32,12,Medium,Cloudy,36,61,2.1,No,5,Working,239026,22030,Poor,295,169,No,Night,No
+RT0155,Dilsukhnagar,Abids,2025-09-27,5:00,Saturday,September,Q3,682,262,61,65,116,20,57,24.2,Low,Partly Cloudy,30,55,1.4,No,1,Working,292723,22159,Good,323,79,No,Early Morning,Yes
+RT0156,Begumpet,Banjara Hills,2025-11-03,21:45,Monday,November,Q4,1026,614,238,25,324,27,39,30.9,Medium,Clear,22,45,2.4,No,5,Malfunctioning,880729,22769,Good,182,95,No,Night,No
+RT0157,Begumpet,Banjara Hills,2025-03-04,6:15,Tuesday,March,Q1,1313,430,232,75,75,48,56,54.6,Medium,Clear,32,89,1.4,No,1,Working,249326,18140,Good,308,245,No,Early Morning,No
+RT0158,Miyapur,Ameerpet,2025-01-09,3:00,Thursday,January,Q1,1276,414,96,35,255,28,48,36.4,Medium,Clear,20,39,0.6,No,1,Malfunctioning,246446,13864,Good,350,50,No,Night,No
+RT0159,Mehdipatnam,Jubilee Hills,2025-04-25,16:45,Friday,April,Q2,1653,590,284,13,245,48,41,19.7,Medium,Cloudy,28,52,1.3,No,4,Malfunctioning,799253,23217,Average,603,205,No,Afternoon,No
+RT0160,Hyderabad,Secunderabad,2025-10-09,6:45,Thursday,October,Q4,681,378,74,45,246,13,50,49.8,Low,Foggy,27,75,3,No,0,Malfunctioning,551078,14767,Average,1082,179,No,Early Morning,No
+RT0161,Mehdipatnam,Jubilee Hills,2025-12-09,23:30,Tuesday,December,Q4,989,289,168,33,63,25,30,50.3,Low,Rainy,21,86,24.8,No,4,Under Maintenance,394068,8230,Good,305,103,No,Night,No
+RT0162,Miyapur,Ameerpet,2025-07-01,22:00,Tuesday,July,Q3,661,437,228,55,138,16,40,46.3,Medium,Rainy,38,36,17.6,No,4,Malfunctioning,740984,7656,Poor,485,247,No,Night,No
+RT0163,Uppal,Hitech City,2025-07-30,23:15,Wednesday,July,Q3,800,167,49,21,78,19,30,33.7,Low,Clear,30,74,0.6,No,5,Working,336080,13603,Poor,221,45,No,Night,No
+RT0164,Kondapur,Gachibowli,2025-04-07,16:00,Monday,April,Q2,1761,526,216,19,241,50,33,25.1,Medium,Rainy,24,45,18.3,No,5,Under Maintenance,660866,24272,Poor,749,84,No,Afternoon,No
+RT0165,Dilsukhnagar,Abids,2025-09-01,14:15,Monday,September,Q3,1483,435,119,58,207,51,35,42.8,Medium,Foggy,32,89,3,No,0,Under Maintenance,340926,22739,Good,751,247,No,Afternoon,No
+RT0166,Gachibowli,Hitech City,2025-03-13,1:45,Thursday,March,Q1,908,416,199,19,171,27,50,49.8,Medium,Clear,30,63,0,No,5,Working,221087,14484,Poor,625,241,No,Night,No
+RT0167,Mehdipatnam,Jubilee Hills,2025-01-01,20:00,Wednesday,January,Q1,1181,533,304,63,135,31,26,34.6,Medium,Clear,35,85,2.6,No,5,Working,386540,8329,Average,1024,58,Yes,Evening,No
+RT0168,LB Nagar,Koti,2025-01-14,16:30,Tuesday,January,Q1,691,342,83,19,225,15,53,13.4,Low,Clear,30,73,3,No,5,Malfunctioning,182498,17133,Good,437,195,No,Afternoon,No
+RT0169,Begumpet,Banjara Hills,2025-02-06,13:00,Thursday,February,Q1,1985,477,135,34,259,49,38,39.7,Medium,Rainy,27,41,1.2,No,3,Malfunctioning,311050,4786,Good,838,40,No,Afternoon,No
+RT0170,Miyapur,Ameerpet,2025-07-21,1:45,Monday,July,Q3,774,262,79,13,155,15,32,31.3,Low,Clear,29,85,1.2,No,5,Malfunctioning,427877,5986,Average,893,87,No,Night,No
+RT0171,Uppal,Hitech City,2025-09-10,4:15,Wednesday,September,Q3,1134,404,52,43,275,34,56,22.1,Medium,Clear,24,83,2.1,No,5,Under Maintenance,510491,20742,Good,947,233,No,Night,No
+RT0172,Kondapur,Gachibowli,2025-02-11,15:45,Tuesday,February,Q1,1336,656,244,78,293,41,39,13.6,Medium,Clear,36,71,2.7,No,5,Malfunctioning,800403,7831,Good,346,233,No,Afternoon,No
+RT0173,Miyapur,Ameerpet,2025-04-25,2:15,Friday,April,Q2,617,385,94,15,266,10,56,38.2,Low,Foggy,28,55,2.7,No,0,Malfunctioning,241254,15717,Average,913,181,No,Night,No
+RT0174,Hyderabad,Secunderabad,2025-12-21,18:45,Sunday,December,Q4,1462,959,482,89,350,38,28,16.7,High,Foggy,38,72,2.3,No,0,Malfunctioning,740016,6309,Average,685,177,Yes,Evening,Yes
+RT0175,Uppal,Hitech City,2025-06-30,7:45,Monday,June,Q2,788,446,272,14,138,22,49,37.4,Medium,Partly Cloudy,21,60,2.7,No,1,Working,201685,18571,Average,650,135,No,Early Morning,No
+RT0176,LB Nagar,Koti,2025-07-26,21:30,Saturday,July,Q3,611,482,281,22,166,13,54,47.2,Medium,Rainy,33,73,16.1,No,1,Working,576949,18874,Poor,1157,135,No,Night,Yes
+RT0177,LB Nagar,Koti,2025-04-19,12:00,Saturday,April,Q2,1958,523,289,61,119,54,30,17.8,Medium,Cloudy,21,50,0.1,Yes,6,Malfunctioning,888862,9524,Poor,661,134,No,Afternoon,Yes
+RT0178,Hyderabad,Secunderabad,2025-09-28,23:00,Sunday,September,Q3,1612,553,153,57,300,43,60,49.2,Medium,Foggy,37,57,1,No,2,Malfunctioning,872312,5961,Good,683,47,No,Night,Yes
+RT0179,Miyapur,Ameerpet,2025-04-22,5:15,Tuesday,April,Q2,1626,414,145,36,187,46,30,48.9,Medium,Clear,35,43,1.9,No,0,Under Maintenance,384639,11270,Poor,725,222,No,Early Morning,No
+RT0180,Mehdipatnam,Jubilee Hills,2025-07-07,23:45,Monday,July,Q3,798,473,208,68,179,18,51,33.4,Medium,Foggy,32,72,0.3,No,5,Under Maintenance,542408,21397,Good,678,116,No,Night,No
+RT0181,Begumpet,Banjara Hills,2025-11-25,20:00,Tuesday,November,Q4,1022,484,221,51,191,21,21,16.7,Medium,Cloudy,21,86,2.6,No,3,Working,842616,13472,Poor,386,224,Yes,Evening,No
+RT0182,LB Nagar,Koti,2025-12-06,12:30,Saturday,December,Q4,1249,605,244,61,248,52,52,54.8,Medium,Cloudy,30,81,2.1,No,5,Working,648844,14747,Poor,1138,116,No,Afternoon,Yes
+RT0183,Kukatpally,Madhapur,2025-05-04,15:30,Sunday,May,Q2,1880,530,271,26,182,51,60,40.6,Medium,Rainy,22,49,8.9,No,2,Under Maintenance,590897,13856,Average,861,106,No,Afternoon,Yes
+RT0184,Uppal,Hitech City,2025-11-13,14:00,Thursday,November,Q4,1235,532,57,84,347,44,58,18.8,Medium,Clear,32,68,0.9,Yes,3,Under Maintenance,294037,9563,Average,801,144,No,Afternoon,No
+RT0185,Gachibowli,Hitech City,2025-04-08,18:30,Tuesday,April,Q2,1274,823,478,20,299,26,25,38.6,High,Clear,34,52,0.6,No,4,Under Maintenance,316131,19042,Average,280,73,Yes,Evening,No
+RT0186,Mehdipatnam,Jubilee Hills,2025-10-21,3:45,Tuesday,October,Q4,347,392,274,59,52,7,53,26.8,Low,Clear,30,83,2.5,No,5,Under Maintenance,154324,23535,Average,609,97,No,Night,No
+RT0187,Kukatpally,Madhapur,2025-08-02,1:15,Saturday,August,Q3,492,521,226,74,206,15,39,52.7,Medium,Partly Cloudy,36,73,1.6,No,5,Working,290288,14230,Good,1103,131,No,Night,Yes
+RT0188,Miyapur,Ameerpet,2025-10-03,9:00,Friday,October,Q4,1093,429,194,26,158,51,31,17.6,Medium,Rainy,21,59,21.9,No,4,Working,803404,4592,Poor,198,209,Yes,Morning,No
+RT0189,Kukatpally,Madhapur,2025-01-14,11:00,Tuesday,January,Q1,712,565,243,66,244,12,45,41.6,Medium,Cloudy,20,54,1.3,No,4,Working,433091,23407,Poor,380,147,No,Morning,No
+RT0190,Kukatpally,Madhapur,2025-03-22,8:30,Saturday,March,Q1,953,825,481,23,304,17,23,47.4,High,Cloudy,31,80,1.2,No,4,Working,670465,9805,Good,1084,124,Yes,Morning,Yes
+RT0191,Kukatpally,Madhapur,2025-01-09,16:00,Thursday,January,Q1,1809,461,282,29,96,54,53,42.6,Medium,Rainy,27,64,24.7,No,3,Malfunctioning,202512,6270,Average,457,50,No,Afternoon,No
+RT0192,Kukatpally,Madhapur,2025-08-02,11:45,Saturday,August,Q3,1238,206,78,15,54,59,40,26.1,Low,Partly Cloudy,28,81,0.3,No,1,Malfunctioning,269361,16132,Average,919,156,No,Morning,Yes
+RT0193,Gachibowli,Hitech City,2025-11-23,11:45,Sunday,November,Q4,1306,252,87,26,80,59,43,51,Low,Partly Cloudy,38,78,1.3,No,2,Malfunctioning,791055,3944,Good,367,163,No,Morning,Yes
+RT0194,Hyderabad,Secunderabad,2025-10-08,18:45,Wednesday,October,Q4,532,370,112,43,210,5,33,20.1,Low,Rainy,36,68,17.2,No,3,Under Maintenance,843856,11145,Poor,1086,128,Yes,Evening,No
+RT0195,Kondapur,Gachibowli,2025-09-20,17:15,Saturday,September,Q3,1124,510,393,16,55,46,30,48.3,Medium,Cloudy,22,83,1.5,No,2,Under Maintenance,202796,19611,Average,556,180,Yes,Evening,Yes
+RT0196,Kukatpally,Madhapur,2025-10-03,7:15,Friday,October,Q4,1051,707,265,66,343,33,44,24.2,High,Partly Cloudy,20,41,1.2,Yes,1,Under Maintenance,245310,22798,Good,723,170,No,Early Morning,No
+RT0197,Begumpet,Banjara Hills,2025-11-08,10:30,Saturday,November,Q4,1292,453,107,38,282,26,34,31.3,Medium,Rainy,34,42,2.4,No,0,Under Maintenance,507938,14637,Average,697,180,Yes,Morning,Yes
+RT0198,Gachibowli,Hitech City,2025-03-14,13:00,Friday,March,Q1,688,579,282,27,259,11,36,18.4,Medium,Partly Cloudy,26,64,2.5,No,2,Under Maintenance,263000,16581,Poor,195,202,No,Afternoon,No
+RT0199,Uppal,Hitech City,2025-03-26,2:45,Wednesday,March,Q1,492,625,288,27,305,5,47,52.1,Medium,Foggy,35,67,2.3,No,5,Malfunctioning,756658,8690,Poor,362,66,No,Night,No
+RT0200,Mehdipatnam,Jubilee Hills,2025-08-08,17:45,Friday,August,Q3,1035,652,391,41,190,30,29,46.2,Medium,Cloudy,33,73,2.1,No,2,Under Maintenance,885570,20950,Poor,742,222,Yes,Evening,No
+RT0201,Miyapur,Ameerpet,2025-05-29,8:15,Thursday,May,Q2,1203,720,399,47,226,48,31,34.4,High,Rainy,23,83,8.8,No,4,Malfunctioning,849565,16679,Good,1193,113,Yes,Morning,No
+RT0202,Hyderabad,Secunderabad,2025-12-23,20:00,Tuesday,December,Q4,900,427,275,28,77,47,23,43.8,Medium,Cloudy,29,78,0.8,No,5,Malfunctioning,459477,9684,Good,166,131,Yes,Evening,No
+RT0203,Miyapur,Ameerpet,2025-06-03,3:45,Tuesday,June,Q2,983,440,291,46,74,29,60,45.5,Medium,Rainy,37,38,0.3,No,4,Under Maintenance,614586,10390,Poor,853,233,No,Night,No
+RT0204,LB Nagar,Koti,2025-05-15,2:15,Thursday,May,Q2,559,395,259,32,88,16,33,27,Low,Partly Cloudy,28,70,0.8,No,2,Working,155919,13831,Good,1055,221,No,Night,No
+RT0205,Dilsukhnagar,Abids,2025-04-15,22:30,Tuesday,April,Q2,1552,386,56,90,204,36,41,13.3,Low,Rainy,36,49,23.9,No,4,Working,317112,16629,Average,1199,143,No,Night,No
+RT0206,Begumpet,Banjara Hills,2025-06-01,0:15,Sunday,June,Q2,967,473,199,56,200,18,45,54.8,Medium,Clear,23,77,1,No,5,Under Maintenance,793512,23353,Average,599,50,No,Night,Yes
+RT0207,Mehdipatnam,Jubilee Hills,2025-09-18,8:00,Thursday,September,Q3,495,490,211,79,194,6,31,46.1,Medium,Partly Cloudy,35,37,0.9,No,2,Under Maintenance,688857,5698,Poor,296,82,Yes,Morning,No
+RT0208,Miyapur,Ameerpet,2025-01-06,0:00,Monday,January,Q1,810,324,139,64,103,18,50,46.8,Low,Clear,24,36,1.4,No,0,Malfunctioning,226806,4778,Poor,464,243,No,Night,No
+RT0209,LB Nagar,Koti,2025-02-18,2:15,Tuesday,February,Q1,1625,622,238,59,280,45,40,10.8,Medium,Clear,37,35,1.9,No,5,Under Maintenance,764054,4491,Good,248,131,No,Night,No
+RT0210,Dilsukhnagar,Abids,2025-07-17,20:30,Thursday,July,Q3,1084,473,124,46,274,29,30,17,Medium,Cloudy,24,82,1.2,No,4,Under Maintenance,459307,23776,Poor,395,116,Yes,Evening,No
+RT0211,Kondapur,Gachibowli,2025-09-12,17:00,Friday,September,Q3,384,512,364,28,113,7,34,27.7,Medium,Foggy,22,54,0.6,No,5,Under Maintenance,510554,9938,Good,945,205,Yes,Evening,No
+RT0212,Miyapur,Ameerpet,2025-04-20,21:15,Sunday,April,Q2,669,317,159,34,108,16,57,43.8,Low,Foggy,34,76,1.6,No,0,Under Maintenance,412865,6217,Average,504,225,No,Night,Yes
+RT0213,Gachibowli,Hitech City,2025-08-14,20:30,Thursday,August,Q3,920,587,423,40,101,23,21,24.3,Medium,Partly Cloudy,30,74,2,No,1,Malfunctioning,743024,21574,Average,846,246,Yes,Evening,No
+RT0214,Begumpet,Banjara Hills,2025-04-26,2:00,Saturday,April,Q2,899,489,156,38,273,22,51,43,Medium,Partly Cloudy,34,63,1.1,No,4,Working,264119,8759,Poor,267,111,No,Night,Yes
+RT0215,Kukatpally,Madhapur,2025-05-15,2:30,Thursday,May,Q2,1152,434,68,12,309,45,48,28.2,Medium,Foggy,26,37,1.7,No,4,Malfunctioning,645036,24427,Good,404,133,No,Night,No
+RT0216,Uppal,Hitech City,2025-07-18,15:15,Friday,July,Q3,1024,487,286,75,96,30,30,39.8,Medium,Foggy,25,83,1.5,No,1,Under Maintenance,743868,21540,Average,399,228,No,Afternoon,No
+RT0217,Miyapur,Ameerpet,2025-09-02,22:00,Tuesday,September,Q3,707,421,279,39,82,21,31,40.1,Medium,Foggy,31,59,1.4,No,0,Under Maintenance,191843,24250,Poor,763,66,No,Night,No
+RT0218,Dilsukhnagar,Abids,2025-07-06,16:30,Sunday,July,Q3,1206,448,119,58,243,28,46,21.3,Medium,Cloudy,36,60,1.1,No,3,Working,655529,22798,Average,113,168,No,Afternoon,Yes
+RT0219,Kukatpally,Madhapur,2025-04-24,1:15,Thursday,April,Q2,498,510,293,45,158,14,41,37.1,Medium,Clear,27,61,2.4,No,3,Under Maintenance,858029,18689,Good,1081,93,No,Night,No
+RT0220,Miyapur,Ameerpet,2025-10-08,12:00,Wednesday,October,Q4,1237,463,52,26,343,42,50,33.1,Medium,Foggy,24,38,0.5,No,4,Under Maintenance,575151,22639,Poor,138,224,No,Afternoon,No
+RT0221,Miyapur,Ameerpet,2025-07-13,12:00,Sunday,July,Q3,2154,697,259,87,291,60,37,47.4,Medium,Foggy,24,85,1.7,No,4,Under Maintenance,841691,19738,Poor,641,82,No,Afternoon,Yes
+RT0222,Dilsukhnagar,Abids,2025-08-22,22:45,Friday,August,Q3,841,376,65,39,243,29,30,19.1,Low,Foggy,33,87,0.4,No,3,Under Maintenance,794610,22654,Poor,179,240,No,Night,No
+RT0223,Uppal,Hitech City,2025-03-22,5:00,Saturday,March,Q1,1311,566,96,87,326,57,46,28.9,Medium,Clear,36,62,0.7,No,3,Working,517544,22301,Average,300,148,No,Early Morning,Yes
+RT0224,Kukatpally,Madhapur,2025-11-22,17:15,Saturday,November,Q4,1109,670,225,86,328,31,15,41.9,Medium,Clear,38,68,0.4,Yes,4,Working,871175,13351,Good,937,132,Yes,Evening,Yes
+RT0225,LB Nagar,Koti,2025-10-18,20:30,Saturday,October,Q4,1381,785,354,64,339,28,27,44,High,Partly Cloudy,37,85,1.7,No,4,Under Maintenance,731866,18851,Average,619,118,Yes,Evening,Yes
+RT0226,Kukatpally,Madhapur,2025-09-29,18:15,Monday,September,Q3,1423,834,462,39,278,55,21,32.9,High,Rainy,37,74,17.4,No,1,Working,558004,23836,Good,110,245,Yes,Evening,No
+RT0227,Kukatpally,Madhapur,2025-11-18,23:45,Tuesday,November,Q4,814,296,62,43,163,28,31,42.6,Low,Partly Cloudy,36,53,2.1,No,1,Working,821394,19199,Poor,999,42,No,Night,No
+RT0228,Miyapur,Ameerpet,2025-12-20,17:30,Saturday,December,Q4,1324,532,97,86,311,38,20,40.3,Medium,Rainy,27,76,0,No,2,Under Maintenance,568836,14571,Good,909,143,Yes,Evening,Yes
+RT0229,Kukatpally,Madhapur,2025-12-20,10:00,Saturday,December,Q4,1996,452,126,80,195,51,26,25.6,Medium,Rainy,27,73,24.1,No,3,Malfunctioning,752833,3152,Poor,634,84,Yes,Morning,Yes
+RT0230,Kondapur,Gachibowli,2025-03-14,16:00,Friday,March,Q1,1930,398,180,53,109,56,58,34.2,Low,Foggy,28,79,1.3,No,3,Malfunctioning,405090,14130,Poor,1039,214,No,Afternoon,No
+RT0231,Kukatpally,Madhapur,2025-01-19,16:45,Sunday,January,Q1,1313,470,162,18,245,45,55,24.2,Medium,Rainy,36,69,0.2,No,1,Under Maintenance,451244,6047,Average,917,212,No,Afternoon,Yes
+RT0232,Uppal,Hitech City,2025-02-21,21:15,Friday,February,Q1,1170,447,190,55,161,41,60,43.6,Medium,Cloudy,35,82,0.6,No,2,Under Maintenance,366823,10510,Average,515,103,No,Night,No
+RT0233,Kukatpally,Madhapur,2025-04-17,11:00,Thursday,April,Q2,1779,249,70,73,53,53,57,31.7,Low,Foggy,30,66,2.7,No,4,Under Maintenance,438078,19082,Average,474,235,No,Morning,No
+RT0234,Dilsukhnagar,Abids,2025-09-29,14:15,Monday,September,Q3,2029,486,95,16,319,56,60,34.3,Medium,Foggy,31,60,2.6,No,3,Under Maintenance,276215,19980,Good,1042,120,No,Afternoon,No
+RT0235,Mehdipatnam,Jubilee Hills,2025-01-09,1:15,Thursday,January,Q1,1314,411,81,51,235,44,47,21.8,Medium,Rainy,35,74,8.6,No,3,Malfunctioning,370759,16732,Average,862,133,No,Night,No
+RT0236,Dilsukhnagar,Abids,2025-11-04,16:15,Tuesday,November,Q4,1282,404,97,83,167,57,55,20.6,Medium,Partly Cloudy,32,47,0.4,No,1,Malfunctioning,645962,3319,Good,461,147,No,Afternoon,No
+RT0237,Uppal,Hitech City,2025-12-19,22:30,Friday,December,Q4,2316,621,183,42,337,59,42,14.5,Medium,Cloudy,21,48,2.4,No,5,Malfunctioning,250979,17740,Average,785,106,No,Night,No
+RT0238,Hyderabad,Secunderabad,2025-06-25,22:30,Wednesday,June,Q2,2339,554,240,25,229,60,48,35.9,Medium,Foggy,25,84,0.9,No,4,Under Maintenance,661174,17645,Average,260,137,No,Night,No
+RT0239,Gachibowli,Hitech City,2025-11-13,14:15,Thursday,November,Q4,892,637,202,63,342,30,35,25.5,Medium,Rainy,30,76,7.3,No,5,Malfunctioning,564664,11888,Poor,1011,239,No,Afternoon,No
+RT0240,Mehdipatnam,Jubilee Hills,2025-12-22,15:45,Monday,December,Q4,431,222,115,33,61,13,60,43.5,Low,Clear,26,45,1.2,No,3,Malfunctioning,725074,4763,Poor,153,237,No,Afternoon,No
+RT0241,LB Nagar,Koti,2025-02-26,19:00,Wednesday,February,Q1,1434,564,396,29,93,46,22,21.1,Medium,Rainy,34,75,3.2,No,1,Malfunctioning,179959,4151,Average,830,123,Yes,Evening,No
+RT0242,Gachibowli,Hitech City,2025-07-05,23:45,Saturday,July,Q3,2022,533,120,85,283,45,43,33.6,Medium,Foggy,29,57,1.4,No,0,Malfunctioning,613324,13088,Good,849,145,No,Night,Yes
+RT0243,Hyderabad,Secunderabad,2025-07-27,5:00,Sunday,July,Q3,1072,573,297,27,226,23,30,40.9,Medium,Partly Cloudy,35,54,0,No,2,Malfunctioning,776003,10576,Good,114,180,No,Early Morning,Yes
+RT0244,Mehdipatnam,Jubilee Hills,2025-10-09,1:45,Thursday,October,Q4,1891,494,157,30,249,58,38,13.6,Medium,Cloudy,36,83,2.4,No,5,Under Maintenance,867897,11908,Poor,683,206,No,Night,No
+RT0245,Miyapur,Ameerpet,2025-07-03,12:45,Thursday,July,Q3,669,240,65,33,119,23,49,30.4,Low,Foggy,35,47,1,No,4,Malfunctioning,173205,9092,Good,309,112,No,Afternoon,No
+RT0246,Miyapur,Ameerpet,2025-10-27,7:00,Monday,October,Q4,920,198,76,29,57,36,43,24,Low,Partly Cloudy,31,64,2.1,Yes,2,Malfunctioning,303184,4836,Good,645,238,No,Early Morning,No
+RT0247,Miyapur,Ameerpet,2025-11-17,22:15,Monday,November,Q4,438,284,158,58,56,12,54,53.9,Low,Cloudy,21,47,1.4,No,4,Under Maintenance,848359,9830,Average,1068,139,No,Night,No
+RT0248,Hyderabad,Secunderabad,2025-08-09,13:15,Saturday,August,Q3,1500,535,296,25,179,35,36,26.2,Medium,Clear,26,42,0.7,No,0,Working,325490,12047,Good,345,141,No,Afternoon,Yes
+RT0249,Dilsukhnagar,Abids,2025-01-29,16:45,Wednesday,January,Q1,642,281,109,57,95,20,32,40.9,Low,Rainy,21,38,8.9,No,4,Malfunctioning,262608,7123,Poor,1099,99,No,Afternoon,No
+RT0250,Miyapur,Ameerpet,2025-08-26,2:45,Tuesday,August,Q3,1286,382,40,58,233,51,58,11.8,Low,Partly Cloudy,37,53,1.6,No,4,Under Maintenance,345692,20813,Average,812,122,No,Night,No
+RT0251,Kukatpally,Madhapur,2025-07-07,22:15,Monday,July,Q3,1670,434,109,67,201,57,41,30.4,Medium,Foggy,32,81,0.6,Yes,6,Working,800324,10824,Poor,756,224,No,Night,No
+RT0252,Kondapur,Gachibowli,2025-09-22,12:15,Monday,September,Q3,1286,536,284,80,128,44,43,38.8,Medium,Clear,23,68,2,Yes,3,Malfunctioning,337316,4024,Good,513,67,No,Afternoon,No
+RT0253,Dilsukhnagar,Abids,2025-03-09,9:00,Sunday,March,Q1,1763,805,408,59,300,38,23,12.2,High,Cloudy,22,35,2.8,No,3,Under Maintenance,233840,18337,Poor,224,132,Yes,Morning,Yes
+RT0254,Hyderabad,Secunderabad,2025-10-11,22:30,Saturday,October,Q4,1034,364,166,77,70,51,32,52.5,Low,Foggy,23,41,2.2,No,1,Under Maintenance,352500,20242,Good,609,185,No,Night,Yes
+RT0255,Dilsukhnagar,Abids,2025-10-11,10:00,Saturday,October,Q4,554,610,263,68,268,11,32,28.1,Medium,Rainy,25,69,25,No,2,Malfunctioning,480463,21025,Poor,764,135,Yes,Morning,Yes
+RT0256,Dilsukhnagar,Abids,2025-10-21,22:30,Tuesday,October,Q4,975,582,153,82,329,18,59,43.5,Medium,Rainy,34,63,24,Yes,1,Working,448301,22521,Average,133,172,No,Night,No
+RT0257,Miyapur,Ameerpet,2025-01-05,11:30,Sunday,January,Q1,1464,304,139,50,61,54,46,35,Low,Foggy,24,41,0.1,No,1,Malfunctioning,427860,15028,Average,611,99,No,Morning,Yes
+RT0258,Dilsukhnagar,Abids,2025-03-04,17:45,Tuesday,March,Q1,1930,481,191,19,216,55,30,47.2,Medium,Foggy,23,73,1.9,Yes,7,Malfunctioning,232289,4832,Average,784,129,Yes,Evening,No
+RT0259,Dilsukhnagar,Abids,2025-03-24,6:15,Monday,March,Q1,591,378,35,90,245,8,31,24.4,Low,Foggy,24,55,1.5,No,0,Under Maintenance,856357,15873,Poor,1012,232,No,Early Morning,No
+RT0260,Miyapur,Ameerpet,2025-12-11,13:00,Thursday,December,Q4,623,563,251,47,251,14,32,31.4,Medium,Clear,37,60,0.8,No,3,Under Maintenance,881770,7272,Good,376,163,No,Afternoon,No
+RT0261,Dilsukhnagar,Abids,2025-11-30,1:45,Sunday,November,Q4,796,549,130,81,318,20,38,45,Medium,Rainy,38,40,2.8,No,2,Under Maintenance,515227,9241,Poor,756,128,No,Night,Yes
+RT0262,Gachibowli,Hitech City,2025-01-17,12:30,Friday,January,Q1,1244,617,209,88,276,44,31,51.6,Medium,Cloudy,26,78,1.1,No,0,Working,267830,4787,Average,597,198,No,Afternoon,No
+RT0263,Kukatpally,Madhapur,2025-01-10,9:30,Friday,January,Q1,514,600,236,67,291,6,32,19.5,Medium,Foggy,36,83,0.8,No,5,Under Maintenance,298213,24897,Poor,137,136,Yes,Morning,No
+RT0264,LB Nagar,Koti,2025-12-26,15:00,Friday,December,Q4,862,346,117,17,195,17,31,30.9,Low,Clear,22,59,2,No,5,Under Maintenance,527717,6535,Average,139,114,No,Afternoon,No
+RT0265,Kondapur,Gachibowli,2025-06-07,19:45,Saturday,June,Q2,1591,712,443,22,211,36,17,18.4,High,Foggy,34,70,2.8,Yes,4,Malfunctioning,705132,12991,Poor,783,165,Yes,Evening,Yes
+RT0266,Begumpet,Banjara Hills,2025-04-18,4:00,Friday,April,Q2,914,489,210,55,204,20,55,12.8,Medium,Rainy,32,87,24.8,No,2,Under Maintenance,386540,7971,Good,799,140,No,Night,No
+RT0267,Kondapur,Gachibowli,2025-03-01,22:45,Saturday,March,Q1,1081,423,146,63,173,41,39,50.9,Medium,Rainy,34,69,3.3,No,4,Under Maintenance,717650,9629,Poor,382,119,No,Night,Yes
+RT0268,Mehdipatnam,Jubilee Hills,2025-12-24,14:15,Wednesday,December,Q4,717,341,104,82,130,25,47,52.7,Low,Clear,25,55,2.5,No,0,Malfunctioning,484168,16567,Poor,942,117,No,Afternoon,No
+RT0269,Miyapur,Ameerpet,2025-07-06,21:15,Sunday,July,Q3,525,260,84,26,144,6,38,37.3,Low,Foggy,27,73,0.7,No,2,Under Maintenance,233336,18617,Average,374,168,No,Night,Yes
+RT0270,Mehdipatnam,Jubilee Hills,2025-09-13,6:15,Saturday,September,Q3,512,486,281,70,120,15,31,28.4,Medium,Clear,28,61,0.7,No,1,Under Maintenance,364498,5167,Average,462,152,No,Early Morning,Yes
+RT0271,Miyapur,Ameerpet,2025-08-10,19:45,Sunday,August,Q3,1332,473,298,61,71,43,27,37.5,Medium,Foggy,37,68,1.9,No,0,Working,695940,6582,Good,1024,156,Yes,Evening,Yes
+RT0272,Hyderabad,Secunderabad,2025-12-21,2:45,Sunday,December,Q4,615,396,228,76,75,17,42,49.8,Low,Rainy,34,45,10.6,No,0,Under Maintenance,873468,19940,Average,391,158,No,Night,Yes
+RT0273,Gachibowli,Hitech City,2025-03-03,17:00,Monday,March,Q1,805,904,478,84,329,13,25,30.3,High,Cloudy,34,72,2.7,No,3,Under Maintenance,244560,11194,Poor,763,217,Yes,Evening,No
+RT0274,Kukatpally,Madhapur,2025-04-22,22:00,Tuesday,April,Q2,663,400,88,67,235,10,53,45.6,Medium,Foggy,25,59,1.7,Yes,3,Working,501475,21530,Good,407,81,No,Night,No
+RT0275,LB Nagar,Koti,2025-02-05,0:45,Wednesday,February,Q1,1147,497,188,67,197,45,58,15.9,Medium,Cloudy,20,74,2.3,Yes,8,Malfunctioning,672864,20809,Good,111,195,No,Night,No
+RT0276,Uppal,Hitech City,2025-05-29,1:45,Thursday,May,Q2,1573,438,239,66,90,43,37,49.7,Medium,Rainy,37,87,20.6,Yes,3,Working,207738,24406,Good,814,49,No,Night,No
+RT0277,Kukatpally,Madhapur,2025-07-23,17:30,Wednesday,July,Q3,675,407,105,23,263,16,34,39.7,Medium,Foggy,38,85,1.7,No,5,Malfunctioning,757090,14802,Average,173,63,Yes,Evening,No
+RT0278,Kukatpally,Madhapur,2025-09-09,14:45,Tuesday,September,Q3,827,434,248,80,83,23,33,41.3,Medium,Rainy,30,68,10.3,No,1,Under Maintenance,791784,4906,Poor,323,186,No,Afternoon,No
+RT0279,Uppal,Hitech City,2025-12-28,2:00,Sunday,December,Q4,1030,474,177,64,212,21,49,25.9,Medium,Cloudy,38,66,1.6,No,3,Malfunctioning,338646,22969,Good,576,221,No,Night,Yes
+RT0280,Hyderabad,Secunderabad,2025-01-02,1:00,Thursday,January,Q1,1379,520,268,90,110,52,43,28.6,Medium,Rainy,31,70,20.2,No,5,Working,360960,12228,Average,621,242,No,Night,No
+RT0281,Hyderabad,Secunderabad,2025-07-24,23:30,Thursday,July,Q3,1391,394,88,52,224,30,60,11.3,Low,Cloudy,26,56,2.5,No,3,Working,647549,4165,Poor,378,163,No,Night,No
+RT0282,Uppal,Hitech City,2025-11-11,10:30,Tuesday,November,Q4,1972,679,481,62,78,58,33,42.6,Medium,Rainy,37,69,0.5,No,2,Working,520771,5169,Average,405,111,Yes,Morning,No
+RT0283,Dilsukhnagar,Abids,2025-09-14,3:15,Sunday,September,Q3,1649,431,229,33,109,60,52,11.4,Medium,Partly Cloudy,22,66,2.6,No,2,Working,376639,20206,Average,719,84,No,Night,Yes
+RT0284,Kukatpally,Madhapur,2025-01-26,12:15,Sunday,January,Q1,1890,449,257,74,62,56,34,18.6,Medium,Partly Cloudy,36,54,2.3,No,0,Working,691218,7348,Average,520,225,No,Afternoon,Yes
+RT0285,Hyderabad,Secunderabad,2025-09-22,14:00,Monday,September,Q3,879,324,189,15,94,26,33,33.4,Low,Rainy,20,71,19,No,1,Malfunctioning,486467,9571,Poor,494,113,No,Afternoon,No
+RT0286,Kukatpally,Madhapur,2025-08-06,20:45,Wednesday,August,Q3,549,400,219,29,130,22,34,35.2,Medium,Clear,26,69,1.1,No,1,Working,888568,12282,Average,601,83,Yes,Evening,No
+RT0287,Hyderabad,Secunderabad,2025-08-20,5:45,Wednesday,August,Q3,1106,448,96,13,291,48,42,12.4,Medium,Partly Cloudy,32,46,2.1,No,5,Malfunctioning,873648,17609,Good,828,119,No,Early Morning,No
+RT0288,Dilsukhnagar,Abids,2025-02-23,14:45,Sunday,February,Q1,707,418,97,21,289,11,51,39,Medium,Partly Cloudy,35,49,2.8,No,4,Under Maintenance,420587,14909,Poor,902,86,No,Afternoon,Yes
+RT0289,Uppal,Hitech City,2025-08-14,12:30,Thursday,August,Q3,822,410,279,13,83,35,45,30.8,Medium,Cloudy,29,84,1,No,4,Under Maintenance,257932,16293,Poor,319,123,No,Afternoon,No
+RT0290,Kondapur,Gachibowli,2025-02-18,10:30,Tuesday,February,Q1,1023,658,316,61,261,20,32,17.2,Medium,Partly Cloudy,32,39,1,No,4,Under Maintenance,602091,17265,Good,800,179,Yes,Morning,No
+RT0291,Dilsukhnagar,Abids,2025-04-29,3:00,Tuesday,April,Q2,1131,615,279,24,287,25,56,30,Medium,Rainy,32,39,15,No,4,Under Maintenance,547316,13728,Good,1112,205,No,Night,No
+RT0292,Gachibowli,Hitech City,2025-03-03,19:15,Monday,March,Q1,1153,559,377,10,125,47,32,23.1,Medium,Foggy,38,63,0.6,No,2,Under Maintenance,464295,21686,Average,723,151,Yes,Evening,No
+RT0293,Dilsukhnagar,Abids,2025-03-02,22:00,Sunday,March,Q1,1566,526,291,61,115,59,41,50.5,Medium,Clear,20,80,1.7,No,0,Under Maintenance,445917,4021,Poor,581,150,No,Night,Yes
+RT0294,Mehdipatnam,Jubilee Hills,2025-09-27,3:30,Saturday,September,Q3,1155,606,237,58,272,39,45,16.3,Medium,Foggy,32,88,2.8,No,1,Working,452483,24956,Good,357,74,No,Night,Yes
+RT0295,Uppal,Hitech City,2025-01-11,17:15,Saturday,January,Q1,435,610,416,65,119,10,29,50.2,Medium,Foggy,33,74,0.5,No,4,Working,621907,15606,Average,827,97,Yes,Evening,Yes
+RT0296,Miyapur,Ameerpet,2025-01-06,1:45,Monday,January,Q1,1660,629,286,44,260,39,31,54,Medium,Foggy,35,80,1.1,No,5,Malfunctioning,233952,7655,Average,1178,232,No,Night,No
+RT0297,Kondapur,Gachibowli,2025-12-19,21:00,Friday,December,Q4,1214,452,75,41,291,45,55,36.1,Medium,Foggy,21,56,1.6,Yes,8,Malfunctioning,687566,18375,Average,778,147,No,Night,No
+RT0298,Hyderabad,Secunderabad,2025-07-17,10:15,Thursday,July,Q3,1974,777,435,86,205,51,16,38.3,High,Foggy,25,71,0.2,No,5,Working,804643,3894,Good,687,164,Yes,Morning,No
+RT0299,LB Nagar,Koti,2025-12-12,3:00,Friday,December,Q4,722,400,159,26,193,22,53,15,Medium,Cloudy,38,82,0.5,No,1,Under Maintenance,423943,10739,Good,1093,86,No,Night,No
+RT0300,Gachibowli,Hitech City,2025-08-23,1:00,Saturday,August,Q3,1799,496,108,73,261,54,51,29.8,Medium,Cloudy,26,71,2.2,No,5,Malfunctioning,427238,6800,Average,207,82,No,Night,Yes
+RT0301,Uppal,Hitech City,2025-11-22,2:30,Saturday,November,Q4,1111,491,149,58,249,35,46,49.2,Medium,Clear,29,86,1.3,No,4,Under Maintenance,866047,4344,Average,299,176,No,Night,Yes
+RT0302,Begumpet,Banjara Hills,2025-10-22,18:30,Wednesday,October,Q4,1004,383,218,44,100,21,27,30.7,Low,Cloudy,38,84,0.6,No,5,Working,338656,13265,Good,121,212,Yes,Evening,No
+RT0303,Kukatpally,Madhapur,2025-01-09,3:45,Thursday,January,Q1,964,626,298,23,278,27,38,18.7,Medium,Clear,22,38,2.8,No,1,Working,778500,23908,Good,349,221,No,Night,No
+RT0304,Dilsukhnagar,Abids,2025-03-30,16:45,Sunday,March,Q1,787,313,124,24,144,21,51,52.1,Low,Partly Cloudy,28,84,1.3,No,2,Working,419836,8307,Average,251,110,No,Afternoon,Yes
+RT0305,Hyderabad,Secunderabad,2025-09-23,6:30,Tuesday,September,Q3,847,379,162,43,141,33,59,19,Low,Partly Cloudy,25,76,1.5,No,3,Under Maintenance,378994,23118,Average,317,153,No,Early Morning,No
+RT0306,Kukatpally,Madhapur,2025-03-12,12:00,Wednesday,March,Q1,1768,381,66,83,178,54,58,32.4,Low,Clear,21,77,1.2,No,2,Under Maintenance,560339,21829,Average,107,171,No,Afternoon,No
+RT0307,Mehdipatnam,Jubilee Hills,2025-11-23,9:45,Sunday,November,Q4,729,815,452,18,326,19,30,15.5,High,Foggy,31,56,2,No,5,Malfunctioning,828506,5970,Good,848,176,Yes,Morning,Yes
+RT0308,Miyapur,Ameerpet,2025-11-10,18:30,Monday,November,Q4,775,349,170,80,70,29,27,50.3,Low,Rainy,35,40,22.1,No,1,Under Maintenance,296740,4169,Poor,495,46,Yes,Evening,No
+RT0309,Mehdipatnam,Jubilee Hills,2025-06-12,19:45,Thursday,June,Q2,1494,434,112,79,207,36,15,11.7,Medium,Clear,30,85,2.2,No,1,Under Maintenance,835611,24866,Poor,1171,157,Yes,Evening,No
+RT0310,Kukatpally,Madhapur,2025-04-12,16:15,Saturday,April,Q2,1130,422,48,28,300,46,59,51.3,Medium,Clear,27,79,1.9,Yes,1,Working,472266,6188,Poor,1034,196,No,Afternoon,Yes
+RT0311,Kukatpally,Madhapur,2025-02-13,15:00,Thursday,February,Q1,480,541,284,86,162,9,40,46.5,Medium,Partly Cloudy,30,42,2.9,No,1,Working,487211,9987,Average,193,191,No,Afternoon,No
+RT0312,LB Nagar,Koti,2025-02-13,3:00,Thursday,February,Q1,1571,350,102,63,136,49,35,29.7,Low,Foggy,21,43,0.3,No,4,Working,544401,8169,Good,132,164,No,Night,No
+RT0313,Kukatpally,Madhapur,2025-01-05,22:15,Sunday,January,Q1,1296,580,175,63,293,49,34,38.8,Medium,Foggy,34,61,0.7,No,5,Malfunctioning,189448,22538,Poor,468,223,No,Night,Yes
+RT0314,Begumpet,Banjara Hills,2025-03-02,2:30,Sunday,March,Q1,805,609,244,10,335,20,46,54,Medium,Foggy,31,90,2.3,No,1,Working,636765,23527,Good,526,110,No,Night,Yes
+RT0315,Uppal,Hitech City,2025-03-18,22:15,Tuesday,March,Q1,916,494,284,32,131,47,50,26.4,Medium,Cloudy,33,51,1,No,3,Working,195421,6421,Good,207,177,No,Night,No
+RT0316,Kondapur,Gachibowli,2025-01-20,20:45,Monday,January,Q1,1820,379,139,19,170,51,33,24.7,Low,Cloudy,30,49,2.3,No,0,Working,398636,16519,Good,509,136,Yes,Evening,No
+RT0317,Hyderabad,Secunderabad,2025-11-18,12:45,Tuesday,November,Q4,1501,485,253,28,160,44,42,26.8,Medium,Partly Cloudy,26,75,1.1,No,2,Working,283391,4051,Good,222,111,No,Afternoon,No
+RT0318,Mehdipatnam,Jubilee Hills,2025-11-14,19:45,Friday,November,Q4,1004,405,167,53,162,23,35,52.9,Medium,Cloudy,38,70,2.6,No,4,Malfunctioning,662977,10092,Good,1069,158,Yes,Evening,No
+RT0319,Miyapur,Ameerpet,2025-10-20,6:15,Monday,October,Q4,1031,627,197,65,346,19,59,35.8,Medium,Clear,33,37,0.1,No,4,Malfunctioning,185253,16949,Poor,1187,140,No,Early Morning,No
+RT0320,Uppal,Hitech City,2025-03-08,21:45,Saturday,March,Q1,1254,561,153,20,335,53,60,19.8,Medium,Rainy,29,50,16.2,No,3,Malfunctioning,851534,12988,Poor,431,220,No,Night,Yes
+RT0321,Uppal,Hitech City,2025-01-17,15:45,Friday,January,Q1,1754,360,100,61,144,55,44,41.7,Low,Clear,22,59,2.7,No,0,Under Maintenance,460997,16955,Poor,652,218,No,Afternoon,No
+RT0322,Dilsukhnagar,Abids,2025-05-22,9:00,Thursday,May,Q2,1594,629,251,17,313,48,18,27.2,Medium,Partly Cloudy,21,58,1.1,No,5,Malfunctioning,220260,21374,Good,519,75,Yes,Morning,No
+RT0323,Dilsukhnagar,Abids,2025-03-19,12:45,Wednesday,March,Q1,983,416,137,38,214,27,51,29,Medium,Clear,22,58,1,No,4,Under Maintenance,278670,18406,Average,1189,213,No,Afternoon,No
+RT0324,Kukatpally,Madhapur,2025-11-05,13:30,Wednesday,November,Q4,429,298,126,68,94,10,39,53.1,Low,Clear,23,45,0.8,No,3,Working,307808,9693,Average,1166,200,No,Afternoon,No
+RT0325,Uppal,Hitech City,2025-10-12,8:15,Sunday,October,Q4,2122,649,257,63,277,52,24,18.5,Medium,Clear,27,88,2.8,No,3,Under Maintenance,756815,14232,Poor,768,164,Yes,Morning,Yes
+RT0326,Uppal,Hitech City,2025-12-28,22:45,Sunday,December,Q4,1500,439,185,82,117,55,55,21.7,Medium,Partly Cloudy,31,53,2.3,Yes,6,Working,448196,17939,Poor,440,198,No,Night,Yes
+RT0327,Gachibowli,Hitech City,2025-07-14,17:15,Monday,July,Q3,522,623,442,29,132,20,25,35.9,Medium,Partly Cloudy,28,58,0.6,No,0,Malfunctioning,847883,13385,Average,804,77,Yes,Evening,No
+RT0328,Kukatpally,Madhapur,2025-04-21,23:30,Monday,April,Q2,1468,462,42,61,305,54,59,24.4,Medium,Clear,37,67,1,No,3,Under Maintenance,453905,21799,Poor,401,244,No,Night,No
+RT0329,Kukatpally,Madhapur,2025-10-29,19:30,Wednesday,October,Q4,535,608,454,71,70,13,24,11.1,Medium,Foggy,27,63,1.1,No,4,Malfunctioning,822465,9394,Good,1178,96,Yes,Evening,No
+RT0330,Kondapur,Gachibowli,2025-01-16,9:00,Thursday,January,Q1,1087,671,308,21,312,30,25,37.1,Medium,Foggy,21,77,1.1,No,3,Malfunctioning,537585,15652,Average,863,43,Yes,Morning,No
+RT0331,Uppal,Hitech City,2025-08-28,20:30,Thursday,August,Q3,1765,599,367,21,160,51,29,23,Medium,Partly Cloudy,33,43,2.5,No,1,Malfunctioning,367877,12936,Good,1072,174,Yes,Evening,No
+RT0332,Hyderabad,Secunderabad,2025-09-14,12:00,Sunday,September,Q3,912,561,239,44,262,16,52,35.6,Medium,Cloudy,26,46,2.5,No,3,Under Maintenance,194284,12895,Poor,722,166,No,Afternoon,Yes
+RT0333,Hyderabad,Secunderabad,2025-11-13,9:15,Thursday,November,Q4,772,644,485,10,128,21,18,39.4,Medium,Rainy,33,46,12.3,No,1,Working,179824,6911,Poor,667,166,Yes,Morning,No
+RT0334,Dilsukhnagar,Abids,2025-09-04,23:45,Thursday,September,Q3,1290,638,253,43,293,49,46,43,Medium,Clear,28,45,1.7,No,3,Working,876959,7439,Average,831,81,No,Night,No
+RT0335,Begumpet,Banjara Hills,2025-09-04,13:45,Thursday,September,Q3,1568,338,54,47,199,38,46,18.7,Low,Cloudy,23,73,2.3,No,2,Under Maintenance,868240,12865,Poor,655,215,No,Afternoon,No
+RT0336,Kondapur,Gachibowli,2025-09-05,11:00,Friday,September,Q3,551,307,210,28,56,13,41,45,Low,Partly Cloudy,30,45,0.3,No,1,Under Maintenance,347569,21306,Poor,1176,176,No,Morning,No
+RT0337,Uppal,Hitech City,2025-03-19,19:45,Wednesday,March,Q1,406,266,119,24,117,6,24,41.1,Low,Cloudy,34,73,1.6,No,1,Working,894378,12983,Good,158,230,Yes,Evening,No
+RT0338,Miyapur,Ameerpet,2025-03-29,20:15,Saturday,March,Q1,506,433,237,26,157,13,18,13.5,Medium,Partly Cloudy,33,37,0.6,Yes,1,Working,641868,6896,Average,618,51,Yes,Evening,Yes
+RT0339,Kukatpally,Madhapur,2025-01-08,0:00,Wednesday,January,Q1,595,388,135,85,152,16,32,16.6,Low,Rainy,38,57,8.8,No,5,Working,792731,10924,Good,1134,185,No,Night,No
+RT0340,Miyapur,Ameerpet,2025-01-10,13:15,Friday,January,Q1,489,535,174,31,325,5,59,32.7,Medium,Partly Cloudy,31,79,1.8,No,0,Working,339633,14626,Poor,877,148,No,Afternoon,No
+RT0341,Kukatpally,Madhapur,2025-06-05,8:45,Thursday,June,Q2,878,666,469,50,113,34,19,32.3,Medium,Rainy,29,70,18.1,No,3,Under Maintenance,271343,15608,Poor,680,156,Yes,Morning,No
+RT0342,Miyapur,Ameerpet,2025-08-01,23:45,Friday,August,Q3,699,571,238,47,269,17,60,40.6,Medium,Cloudy,20,78,1.5,No,3,Working,698051,24579,Average,274,70,No,Night,No
+RT0343,Gachibowli,Hitech City,2025-10-01,11:00,Wednesday,October,Q4,869,296,63,56,151,26,57,54.6,Low,Clear,27,88,1.3,No,5,Under Maintenance,760185,22452,Average,659,233,No,Morning,No
+RT0344,Dilsukhnagar,Abids,2025-09-01,2:45,Monday,September,Q3,865,642,237,72,311,22,33,15.5,Medium,Partly Cloudy,35,49,1.9,No,0,Working,205419,5235,Good,1120,213,No,Night,No
+RT0345,Gachibowli,Hitech City,2025-09-19,5:30,Friday,September,Q3,1153,426,185,89,99,53,54,32.1,Medium,Partly Cloudy,26,53,2,No,2,Working,718787,14259,Average,136,235,No,Early Morning,No
+RT0346,Uppal,Hitech City,2025-03-23,7:45,Sunday,March,Q1,848,559,191,58,276,34,35,35,Medium,Rainy,25,66,10.8,No,3,Under Maintenance,661133,6584,Poor,1104,208,No,Early Morning,Yes
+RT0347,Kondapur,Gachibowli,2025-11-17,17:45,Monday,November,Q4,914,342,160,74,78,30,33,53.7,Low,Foggy,31,84,2.9,No,0,Malfunctioning,769145,4478,Poor,362,133,Yes,Evening,No
+RT0348,Mehdipatnam,Jubilee Hills,2025-01-19,8:30,Sunday,January,Q1,1091,446,129,64,226,27,16,39.8,Medium,Cloudy,27,76,0.9,No,5,Working,218681,12991,Good,334,126,Yes,Morning,Yes
+RT0349,Uppal,Hitech City,2025-08-11,15:00,Monday,August,Q3,1051,672,246,82,313,31,52,31.1,Medium,Clear,30,59,1.7,No,0,Malfunctioning,662081,6278,Poor,521,126,No,Afternoon,No
+RT0350,Dilsukhnagar,Abids,2025-08-20,19:15,Wednesday,August,Q3,822,579,233,56,273,17,32,19.6,Medium,Rainy,21,54,24.9,No,1,Malfunctioning,804911,6013,Average,294,191,Yes,Evening,No
+RT0351,Mehdipatnam,Jubilee Hills,2025-02-15,22:45,Saturday,February,Q1,1342,326,137,54,89,46,55,23.5,Low,Foggy,30,47,1.2,No,4,Under Maintenance,625244,20942,Poor,469,44,No,Night,Yes
+RT0352,Dilsukhnagar,Abids,2025-12-19,9:15,Friday,December,Q4,1215,683,335,37,289,22,34,48.4,Medium,Partly Cloudy,38,81,1.9,No,2,Under Maintenance,634952,7841,Poor,592,78,Yes,Morning,No
+RT0353,Mehdipatnam,Jubilee Hills,2025-07-24,23:45,Thursday,July,Q3,1894,424,193,18,154,59,56,22.9,Medium,Cloudy,28,78,1.8,No,0,Malfunctioning,307246,9288,Average,156,102,No,Night,No
+RT0354,Mehdipatnam,Jubilee Hills,2025-11-28,8:45,Friday,November,Q4,552,593,411,14,153,15,15,21.6,Medium,Rainy,37,46,16.1,Yes,8,Under Maintenance,170875,4812,Average,271,120,Yes,Morning,No
+RT0355,Begumpet,Banjara Hills,2025-02-13,9:45,Thursday,February,Q1,1435,755,423,21,253,58,18,35.7,High,Foggy,23,68,2,No,4,Under Maintenance,414039,19267,Good,284,100,Yes,Morning,No
+RT0356,Dilsukhnagar,Abids,2025-08-02,22:30,Saturday,August,Q3,655,553,229,40,266,18,35,19.6,Medium,Rainy,34,61,6.4,No,3,Under Maintenance,709383,15278,Average,331,121,No,Night,Yes
+RT0357,LB Nagar,Koti,2025-11-21,4:15,Friday,November,Q4,1691,503,104,56,293,50,30,39,Medium,Foggy,21,88,2.2,No,0,Malfunctioning,874233,10853,Average,618,181,No,Night,No
+RT0358,Kondapur,Gachibowli,2025-09-05,17:00,Friday,September,Q3,468,520,201,66,248,5,24,14.1,Medium,Cloudy,29,48,2.6,No,3,Working,812021,13393,Average,932,242,Yes,Evening,No
+RT0359,Uppal,Hitech City,2025-02-24,16:45,Monday,February,Q1,1353,616,241,52,266,57,52,21.7,Medium,Clear,31,61,1.8,No,5,Working,492641,17852,Poor,156,235,No,Afternoon,No
+RT0360,Gachibowli,Hitech City,2025-05-06,10:45,Tuesday,May,Q2,1332,339,81,61,152,45,33,13.7,Low,Cloudy,27,68,2.1,No,5,Malfunctioning,286412,22464,Average,940,242,Yes,Morning,No
+RT0361,LB Nagar,Koti,2025-11-23,13:15,Sunday,November,Q4,1631,476,118,85,217,56,32,28.7,Medium,Cloudy,32,59,2.8,No,1,Malfunctioning,171741,3752,Good,568,62,No,Afternoon,Yes
+RT0362,Hyderabad,Secunderabad,2025-06-28,17:15,Saturday,June,Q2,1316,686,285,89,269,43,17,53.1,Medium,Cloudy,38,42,0,No,3,Under Maintenance,856331,19192,Good,342,97,Yes,Evening,Yes
+RT0363,LB Nagar,Koti,2025-05-11,1:30,Sunday,May,Q2,961,489,283,58,116,32,36,54.8,Medium,Rainy,26,61,4.5,No,0,Malfunctioning,454289,11578,Good,582,198,No,Night,Yes
+RT0364,Kukatpally,Madhapur,2025-09-10,8:45,Wednesday,September,Q3,1739,333,85,70,118,60,21,42.1,Low,Partly Cloudy,28,39,0.3,Yes,6,Under Maintenance,396249,18431,Poor,825,195,Yes,Morning,No
+RT0365,LB Nagar,Koti,2025-02-01,1:00,Saturday,February,Q1,1007,646,288,89,245,24,34,53.6,Medium,Foggy,21,72,0.5,No,3,Malfunctioning,505652,18338,Poor,370,62,No,Night,Yes
+RT0366,Gachibowli,Hitech City,2025-12-29,2:45,Monday,December,Q4,490,404,163,24,210,7,57,53.8,Medium,Rainy,31,62,7.1,No,4,Working,426570,19940,Average,741,151,No,Night,No
+RT0367,Kondapur,Gachibowli,2025-12-02,9:15,Tuesday,December,Q4,433,576,416,66,77,17,22,18.2,Medium,Partly Cloudy,28,45,2.1,No,3,Under Maintenance,192773,17467,Average,830,221,Yes,Morning,No
+RT0368,Kukatpally,Madhapur,2025-11-09,11:45,Sunday,November,Q4,530,368,105,25,228,10,35,47.6,Low,Foggy,28,71,2.7,No,4,Working,154326,20236,Good,469,146,No,Morning,Yes
+RT0369,Begumpet,Banjara Hills,2025-12-07,1:00,Sunday,December,Q4,1063,231,43,46,112,30,59,52.8,Low,Rainy,24,36,2,No,5,Under Maintenance,653164,17878,Good,651,192,No,Night,Yes
+RT0370,Dilsukhnagar,Abids,2025-08-13,21:00,Wednesday,August,Q3,646,666,261,51,341,13,55,39,Medium,Rainy,21,82,1.8,No,3,Working,247046,16069,Average,622,85,No,Night,No
+RT0371,Miyapur,Ameerpet,2025-03-02,21:00,Sunday,March,Q1,1120,451,113,59,256,23,33,23.4,Medium,Partly Cloudy,29,78,1.8,No,0,Malfunctioning,535306,19798,Average,509,165,No,Night,Yes
+RT0372,Dilsukhnagar,Abids,2025-11-22,5:30,Saturday,November,Q4,1899,589,246,21,266,56,35,29.5,Medium,Partly Cloudy,22,37,1.5,No,5,Under Maintenance,385122,24220,Poor,417,166,No,Early Morning,Yes
+RT0373,LB Nagar,Koti,2025-12-25,4:00,Thursday,December,Q4,1866,480,269,65,90,56,34,54.3,Medium,Rainy,27,68,10.7,No,4,Under Maintenance,230250,4477,Average,1151,67,No,Night,No
+RT0374,Uppal,Hitech City,2025-10-09,22:00,Thursday,October,Q4,1042,436,159,55,180,42,30,15.1,Medium,Partly Cloudy,25,85,0.5,No,0,Under Maintenance,586471,12753,Average,742,190,No,Night,No
+RT0375,Begumpet,Banjara Hills,2025-11-04,3:30,Tuesday,November,Q4,570,316,125,37,144,10,57,40.3,Low,Partly Cloudy,37,36,0,No,1,Malfunctioning,837657,18634,Poor,1042,217,No,Night,No
+RT0376,Dilsukhnagar,Abids,2025-11-29,6:30,Saturday,November,Q4,448,488,214,60,204,10,30,18.6,Medium,Clear,26,89,0.1,No,1,Under Maintenance,831301,10922,Good,992,200,No,Early Morning,Yes
+RT0377,Uppal,Hitech City,2025-02-28,18:30,Friday,February,Q1,436,497,155,70,266,6,19,43.2,Medium,Partly Cloudy,35,65,0.1,No,1,Malfunctioning,361118,12661,Good,902,53,Yes,Evening,No
+RT0378,Mehdipatnam,Jubilee Hills,2025-03-12,2:45,Wednesday,March,Q1,845,723,283,84,333,23,42,31.9,High,Foggy,35,49,2.1,No,3,Under Maintenance,754402,13349,Average,230,108,No,Night,No
+RT0379,Uppal,Hitech City,2025-11-20,3:00,Thursday,November,Q4,486,553,207,67,273,6,53,18.6,Medium,Rainy,34,49,12.7,No,5,Malfunctioning,505627,22729,Poor,1059,73,No,Night,No
+RT0380,Begumpet,Banjara Hills,2025-09-24,11:45,Wednesday,September,Q3,690,480,271,30,156,23,34,17.8,Medium,Cloudy,35,41,2.4,No,3,Working,468402,10691,Good,528,182,No,Morning,No
+RT0381,Begumpet,Banjara Hills,2025-09-02,22:30,Tuesday,September,Q3,532,457,111,32,307,7,43,15.1,Medium,Cloudy,23,70,0.7,No,2,Under Maintenance,522497,4529,Poor,647,78,No,Night,No
+RT0382,Uppal,Hitech City,2025-03-13,2:00,Thursday,March,Q1,2150,447,264,24,104,55,55,48.6,Medium,Clear,37,37,1.5,No,0,Malfunctioning,365363,14850,Poor,421,226,No,Night,No
+RT0383,Kukatpally,Madhapur,2025-10-29,9:45,Wednesday,October,Q4,1355,492,158,56,221,57,21,29.8,Medium,Partly Cloudy,20,50,2.5,No,2,Malfunctioning,679554,8611,Poor,274,108,Yes,Morning,No
+RT0384,Miyapur,Ameerpet,2025-10-11,7:30,Saturday,October,Q4,1530,504,107,77,265,55,55,29.3,Medium,Partly Cloudy,34,89,1.5,No,0,Under Maintenance,614077,7770,Good,120,223,No,Early Morning,Yes
+RT0385,Begumpet,Banjara Hills,2025-02-27,21:30,Thursday,February,Q1,517,546,235,31,272,8,51,51.5,Medium,Cloudy,38,38,2.9,No,5,Under Maintenance,695027,12690,Poor,958,142,No,Night,No
+RT0386,Begumpet,Banjara Hills,2025-07-27,18:30,Sunday,July,Q3,1279,493,84,45,320,44,29,39,Medium,Foggy,34,79,1,No,5,Working,574154,9464,Poor,717,61,Yes,Evening,Yes
+RT0387,Gachibowli,Hitech City,2025-08-17,8:45,Sunday,August,Q3,651,638,346,79,195,18,32,24.1,Medium,Rainy,25,36,0.7,No,4,Malfunctioning,421256,10908,Poor,722,225,Yes,Morning,Yes
+RT0388,Begumpet,Banjara Hills,2025-03-17,9:00,Monday,March,Q1,827,638,212,90,309,27,35,52.4,Medium,Partly Cloudy,29,71,2.2,No,1,Working,759845,21533,Average,1192,192,Yes,Morning,No
+RT0389,Dilsukhnagar,Abids,2025-07-24,6:30,Thursday,July,Q3,1506,527,101,58,316,52,40,33.2,Medium,Cloudy,31,64,0.3,No,3,Working,235927,6022,Average,227,148,No,Early Morning,No
+RT0390,Kukatpally,Madhapur,2025-05-27,15:45,Tuesday,May,Q2,1752,594,219,77,256,42,54,27.8,Medium,Rainy,38,66,15.9,No,5,Under Maintenance,663321,16661,Good,433,76,No,Afternoon,No
+RT0391,Gachibowli,Hitech City,2025-11-27,22:45,Thursday,November,Q4,1275,528,292,77,110,49,45,11.5,Medium,Cloudy,37,58,2.8,No,3,Malfunctioning,265695,6960,Good,856,186,No,Night,No
+RT0392,Kukatpally,Madhapur,2025-12-23,21:15,Tuesday,December,Q4,961,534,220,49,241,24,30,45.6,Medium,Cloudy,38,61,0.1,No,2,Working,376053,8999,Poor,1101,40,No,Night,No
+RT0393,Hyderabad,Secunderabad,2025-08-27,0:00,Wednesday,August,Q3,1270,681,243,71,343,24,58,25.2,Medium,Partly Cloudy,35,88,2.2,No,1,Malfunctioning,679283,23855,Poor,1043,234,No,Night,No
+RT0394,Begumpet,Banjara Hills,2025-11-03,13:15,Monday,November,Q4,1018,452,75,89,259,29,40,34.3,Medium,Partly Cloudy,28,76,0.3,No,0,Under Maintenance,749780,23647,Good,732,183,No,Afternoon,No
+RT0395,Dilsukhnagar,Abids,2025-02-28,3:15,Friday,February,Q1,975,473,57,82,317,17,58,10.8,Medium,Foggy,25,36,0.8,No,5,Under Maintenance,757705,17556,Poor,273,246,No,Night,No
+RT0396,Dilsukhnagar,Abids,2025-08-07,17:45,Thursday,August,Q3,855,262,103,72,61,26,28,11.1,Low,Foggy,30,59,0.8,No,0,Working,718096,8510,Average,684,76,Yes,Evening,No
+RT0397,LB Nagar,Koti,2025-03-03,4:15,Monday,March,Q1,1246,393,238,31,80,44,30,42.1,Low,Rainy,32,41,8,No,2,Working,420463,15304,Good,347,53,No,Night,No
+RT0398,Kondapur,Gachibowli,2025-06-11,10:45,Wednesday,June,Q2,558,798,465,74,247,12,25,30.9,High,Partly Cloudy,22,65,0.1,No,0,Under Maintenance,432234,21155,Poor,307,103,Yes,Morning,No
+RT0399,Dilsukhnagar,Abids,2025-03-27,17:30,Thursday,March,Q1,2305,506,288,67,92,59,21,45.2,Medium,Cloudy,31,69,3,No,4,Working,594336,21191,Average,1025,50,Yes,Evening,No
+RT0400,Hyderabad,Secunderabad,2025-07-17,11:15,Thursday,July,Q3,1295,363,60,71,189,43,41,47.9,Low,Cloudy,38,88,1.5,Yes,2,Working,465242,5939,Good,909,218,No,Morning,No
+RT0401,Miyapur,Ameerpet,2025-07-10,18:45,Thursday,July,Q3,1498,726,392,74,212,48,29,22.3,High,Rainy,30,48,11.5,No,0,Malfunctioning,875452,7381,Good,104,195,Yes,Evening,No
+RT0402,Mehdipatnam,Jubilee Hills,2025-01-07,12:15,Tuesday,January,Q1,714,675,280,60,325,10,47,11.4,Medium,Partly Cloudy,23,57,2.9,No,4,Under Maintenance,525354,15673,Good,462,236,No,Afternoon,No
+RT0403,Begumpet,Banjara Hills,2025-03-27,4:45,Thursday,March,Q1,430,267,128,66,54,19,51,51.5,Low,Rainy,26,40,20.4,No,5,Working,381890,10676,Average,1111,132,No,Night,No
+RT0404,Hyderabad,Secunderabad,2025-12-03,10:15,Wednesday,December,Q4,1651,406,180,60,106,60,31,32.2,Medium,Foggy,26,77,2.2,No,4,Working,742592,8751,Poor,233,190,Yes,Morning,No
+RT0405,LB Nagar,Koti,2025-02-14,9:15,Friday,February,Q1,1559,778,371,39,317,51,15,54.6,High,Foggy,28,78,1.7,No,3,Malfunctioning,822101,24300,Average,206,122,Yes,Morning,No
+RT0406,Kondapur,Gachibowli,2025-07-07,1:00,Monday,July,Q3,920,614,268,73,235,38,31,22.5,Medium,Partly Cloudy,37,63,0.9,No,2,Working,235782,21737,Poor,151,228,No,Night,No
+RT0407,Miyapur,Ameerpet,2025-10-17,7:00,Friday,October,Q4,806,403,130,31,218,24,50,14.4,Medium,Partly Cloudy,33,86,0.1,No,2,Working,412573,11098,Average,320,161,No,Early Morning,No
+RT0408,Kondapur,Gachibowli,2025-02-07,3:30,Friday,February,Q1,1408,497,151,19,274,53,44,36.1,Medium,Clear,21,37,1.1,No,5,Malfunctioning,218187,7179,Good,226,245,No,Night,No
+RT0409,Kukatpally,Madhapur,2025-07-25,19:45,Friday,July,Q3,645,493,132,17,336,8,27,14.3,Medium,Partly Cloudy,27,90,1.8,No,0,Malfunctioning,625436,15580,Poor,1050,243,Yes,Evening,No
+RT0410,Hyderabad,Secunderabad,2025-03-11,3:30,Tuesday,March,Q1,1147,598,262,76,218,42,33,10.6,Medium,Clear,38,85,2.5,No,1,Malfunctioning,818324,19675,Average,624,130,No,Night,No
+RT0411,Miyapur,Ameerpet,2025-10-31,12:15,Friday,October,Q4,561,208,100,15,80,13,43,33.1,Low,Rainy,29,72,22.1,No,1,Malfunctioning,642331,13114,Good,802,114,No,Afternoon,No
+RT0412,Hyderabad,Secunderabad,2025-12-20,9:15,Saturday,December,Q4,1408,670,201,74,336,59,26,18.8,Medium,Cloudy,26,85,0.2,No,3,Under Maintenance,878531,18315,Average,778,188,Yes,Morning,Yes
+RT0413,Begumpet,Banjara Hills,2025-07-24,13:45,Thursday,July,Q3,1308,473,113,23,282,55,37,51.4,Medium,Cloudy,27,64,1.9,No,5,Working,497618,15317,Good,520,142,No,Afternoon,No
+RT0414,Kukatpally,Madhapur,2025-09-05,16:00,Friday,September,Q3,656,572,213,13,334,12,44,18.7,Medium,Foggy,31,37,2.9,No,2,Working,332605,10174,Average,636,224,No,Afternoon,No
+RT0415,Miyapur,Ameerpet,2025-06-17,21:15,Tuesday,June,Q2,404,268,41,32,184,11,42,39.5,Low,Clear,30,48,0.9,No,2,Under Maintenance,843013,8615,Average,1179,244,No,Night,No
+RT0416,Gachibowli,Hitech City,2025-02-14,15:00,Friday,February,Q1,1316,317,96,34,148,39,40,37,Low,Cloudy,21,83,1.8,No,4,Working,458472,7868,Poor,771,103,No,Afternoon,No
+RT0417,Kondapur,Gachibowli,2025-07-11,4:15,Friday,July,Q3,1918,462,280,36,91,55,32,17.5,Medium,Partly Cloudy,36,58,1.5,No,2,Malfunctioning,897096,15251,Poor,1176,217,No,Night,No
+RT0418,LB Nagar,Koti,2025-12-04,18:45,Thursday,December,Q4,1157,832,377,61,348,46,22,50.3,High,Partly Cloudy,27,60,0.7,No,3,Under Maintenance,749125,8151,Good,866,105,Yes,Evening,No
+RT0419,LB Nagar,Koti,2025-04-02,16:00,Wednesday,April,Q2,887,582,257,76,230,19,44,33.1,Medium,Rainy,33,63,11.7,No,3,Working,482420,11946,Average,883,46,No,Afternoon,No
+RT0420,Kukatpally,Madhapur,2025-06-09,14:30,Monday,June,Q2,2149,491,213,20,200,58,47,39,Medium,Rainy,27,41,3,No,4,Malfunctioning,360036,13936,Average,502,212,No,Afternoon,No
+RT0421,Miyapur,Ameerpet,2025-07-26,15:30,Saturday,July,Q3,395,367,100,79,183,5,56,25.6,Low,Partly Cloudy,32,87,1.7,No,3,Working,835864,19798,Good,405,141,No,Afternoon,Yes
+RT0422,Miyapur,Ameerpet,2025-05-24,6:45,Saturday,May,Q2,2007,764,294,85,332,53,40,45.6,High,Rainy,26,62,19.3,No,1,Working,609990,17744,Poor,161,135,No,Early Morning,Yes
+RT0423,Hyderabad,Secunderabad,2025-03-29,14:30,Saturday,March,Q1,883,582,285,55,223,19,51,43.9,Medium,Foggy,29,55,1.8,No,0,Under Maintenance,295893,8036,Poor,776,185,No,Afternoon,Yes
+RT0424,Miyapur,Ameerpet,2025-09-24,20:45,Wednesday,September,Q3,1073,650,280,18,323,29,18,24.8,Medium,Partly Cloudy,29,40,0.5,No,1,Working,183616,22771,Good,1100,46,Yes,Evening,No
+RT0425,LB Nagar,Koti,2025-02-17,10:45,Monday,February,Q1,1693,470,185,39,199,47,29,12.6,Medium,Foggy,20,45,1,No,3,Malfunctioning,314663,6628,Average,364,177,Yes,Morning,No
+RT0426,Miyapur,Ameerpet,2025-02-16,22:45,Sunday,February,Q1,1228,372,96,36,208,32,49,35.9,Low,Rainy,38,47,12.6,No,2,Working,361500,3243,Average,392,154,No,Night,Yes
+RT0427,Dilsukhnagar,Abids,2025-06-18,12:30,Wednesday,June,Q2,985,676,281,68,286,41,39,39.1,Medium,Partly Cloudy,31,79,2.5,No,3,Working,792805,8738,Poor,950,103,No,Afternoon,No
+RT0428,Mehdipatnam,Jubilee Hills,2025-10-22,23:45,Wednesday,October,Q4,659,333,123,82,98,30,58,49.2,Low,Rainy,37,53,16.7,Yes,4,Working,667459,16476,Good,348,134,No,Night,No
+RT0429,Mehdipatnam,Jubilee Hills,2025-12-11,8:30,Thursday,December,Q4,768,538,310,31,179,18,29,11.2,Medium,Partly Cloudy,32,56,2.2,No,3,Under Maintenance,189609,3351,Good,613,69,Yes,Morning,No
+RT0430,Uppal,Hitech City,2025-08-12,7:45,Tuesday,August,Q3,1104,416,266,18,92,40,34,31.2,Medium,Rainy,25,45,21,No,1,Malfunctioning,458433,7068,Good,1194,229,No,Early Morning,No
+RT0431,LB Nagar,Koti,2025-02-22,23:00,Saturday,February,Q1,597,423,108,66,233,16,58,40.4,Medium,Cloudy,34,79,0.1,No,4,Under Maintenance,822149,24710,Average,310,139,No,Night,Yes
+RT0432,Dilsukhnagar,Abids,2025-10-31,2:00,Friday,October,Q4,1460,345,32,16,243,54,41,50.9,Low,Cloudy,22,36,1.3,No,2,Working,351485,24920,Poor,229,96,No,Night,No
+RT0433,Hyderabad,Secunderabad,2025-04-25,14:15,Friday,April,Q2,1632,479,242,75,105,57,47,38.2,Medium,Foggy,26,69,1.2,No,1,Working,374164,6469,Good,830,122,No,Afternoon,No
+RT0434,Hyderabad,Secunderabad,2025-10-02,12:30,Thursday,October,Q4,698,569,229,37,284,19,50,38.1,Medium,Clear,22,48,1.2,No,3,Working,256759,20569,Poor,451,104,No,Afternoon,No
+RT0435,Gachibowli,Hitech City,2025-08-10,10:45,Sunday,August,Q3,2019,553,250,32,212,59,25,10.8,Medium,Foggy,34,59,1.5,No,4,Under Maintenance,766005,3435,Good,576,45,Yes,Morning,Yes
+RT0436,Mehdipatnam,Jubilee Hills,2025-07-30,20:15,Wednesday,July,Q3,357,606,467,41,90,8,30,23.3,Medium,Cloudy,32,48,1.9,No,5,Malfunctioning,777127,17540,Average,773,74,Yes,Evening,No
+RT0437,LB Nagar,Koti,2025-01-28,0:45,Tuesday,January,Q1,863,326,42,39,219,26,47,12.4,Low,Cloudy,27,73,2.6,No,1,Malfunctioning,613849,23636,Good,112,56,No,Night,No
+RT0438,Gachibowli,Hitech City,2025-05-12,9:00,Monday,May,Q2,784,322,184,26,96,16,21,20.6,Low,Clear,33,81,1.4,No,1,Working,406822,16894,Average,461,195,Yes,Morning,No
+RT0439,Miyapur,Ameerpet,2025-07-14,19:45,Monday,July,Q3,962,408,219,71,90,28,20,31.2,Medium,Partly Cloudy,36,74,2.2,No,3,Malfunctioning,170773,15498,Poor,975,61,Yes,Evening,No
+RT0440,LB Nagar,Koti,2025-04-15,7:15,Tuesday,April,Q2,1138,533,224,69,206,34,47,37.3,Medium,Clear,30,43,2.1,No,1,Under Maintenance,154383,3420,Average,1125,226,No,Early Morning,No
+RT0441,Mehdipatnam,Jubilee Hills,2025-12-02,11:45,Tuesday,December,Q4,1280,571,232,57,246,36,32,28.4,Medium,Clear,23,59,2.8,No,3,Malfunctioning,417657,14422,Poor,1143,221,No,Morning,No
+RT0442,Mehdipatnam,Jubilee Hills,2025-09-09,8:00,Tuesday,September,Q3,846,547,297,41,174,35,35,41.8,Medium,Clear,24,51,1.8,No,1,Working,416640,11107,Good,430,43,Yes,Morning,No
+RT0443,Dilsukhnagar,Abids,2025-09-20,9:45,Saturday,September,Q3,915,375,121,76,146,32,23,41.1,Low,Foggy,37,77,2.7,No,5,Under Maintenance,581603,5912,Average,323,202,Yes,Morning,Yes
+RT0444,Miyapur,Ameerpet,2025-04-08,10:30,Tuesday,April,Q2,452,735,463,60,207,5,15,14.4,High,Partly Cloudy,36,61,2,No,1,Working,334970,15276,Good,481,220,Yes,Morning,No
+RT0445,Kondapur,Gachibowli,2025-11-29,2:15,Saturday,November,Q4,1604,550,86,67,340,57,36,12.7,Medium,Cloudy,26,51,2.9,No,3,Working,807286,23461,Good,323,202,No,Night,Yes
+RT0446,Mehdipatnam,Jubilee Hills,2025-07-20,2:00,Sunday,July,Q3,641,246,93,45,82,26,37,31.5,Low,Clear,20,38,0.8,No,5,Under Maintenance,760738,4371,Good,298,94,No,Night,Yes
+RT0447,Uppal,Hitech City,2025-09-14,10:30,Sunday,September,Q3,1052,670,322,53,269,26,25,46.8,Medium,Rainy,32,59,15.3,No,2,Malfunctioning,255043,3101,Poor,1035,218,Yes,Morning,Yes
+RT0448,Dilsukhnagar,Abids,2025-04-05,19:00,Saturday,April,Q2,1385,461,142,77,193,49,29,37.8,Medium,Partly Cloudy,36,61,2,Yes,6,Under Maintenance,167438,23767,Average,837,51,Yes,Evening,Yes
+RT0449,Dilsukhnagar,Abids,2025-10-31,7:15,Friday,October,Q4,988,457,278,61,91,27,51,48.6,Medium,Clear,32,53,1.8,No,4,Malfunctioning,749672,19535,Good,165,72,No,Early Morning,No
+RT0450,Gachibowli,Hitech City,2025-07-25,17:45,Friday,July,Q3,1881,675,308,24,296,47,22,19.5,Medium,Clear,23,62,3,Yes,6,Malfunctioning,552118,12186,Poor,551,224,Yes,Evening,No
+RT0451,Gachibowli,Hitech City,2025-11-22,3:00,Saturday,November,Q4,1707,582,281,21,220,60,54,51.6,Medium,Clear,30,59,2.7,No,5,Working,550189,24427,Good,994,246,No,Night,Yes
+RT0452,LB Nagar,Koti,2025-06-26,20:00,Thursday,June,Q2,1021,269,124,24,95,26,18,35.8,Low,Cloudy,30,59,1.7,Yes,1,Malfunctioning,768722,20550,Average,488,139,Yes,Evening,No
+RT0453,Kondapur,Gachibowli,2025-09-07,4:15,Sunday,September,Q3,549,423,143,23,252,5,40,16.5,Medium,Rainy,27,66,17,No,2,Malfunctioning,302956,24802,Average,170,193,No,Night,Yes
+RT0454,LB Nagar,Koti,2025-12-09,22:00,Tuesday,December,Q4,1140,560,274,90,160,36,31,54.2,Medium,Rainy,24,87,17.9,No,1,Under Maintenance,884430,4722,Average,466,164,No,Night,No
+RT0455,Hyderabad,Secunderabad,2025-07-24,4:15,Thursday,July,Q3,1815,597,230,53,266,48,54,27.6,Medium,Clear,36,81,0.8,No,1,Working,885165,20957,Average,906,64,No,Night,No
+RT0456,Uppal,Hitech City,2025-02-06,22:30,Thursday,February,Q1,1204,349,113,83,120,33,58,16.5,Low,Cloudy,26,82,2,No,4,Under Maintenance,256900,7836,Good,871,149,No,Night,No
+RT0457,Begumpet,Banjara Hills,2025-02-08,10:00,Saturday,February,Q1,554,442,322,32,76,12,33,29.5,Medium,Cloudy,32,50,0.1,No,3,Under Maintenance,467393,22534,Average,453,207,Yes,Morning,Yes
+RT0458,Mehdipatnam,Jubilee Hills,2025-03-03,4:45,Monday,March,Q1,747,565,170,90,277,28,33,13.7,Medium,Partly Cloudy,36,49,0.1,No,4,Under Maintenance,652790,11969,Good,293,243,No,Night,No
+RT0459,Mehdipatnam,Jubilee Hills,2025-09-20,2:45,Saturday,September,Q3,425,390,182,83,114,11,52,50.9,Low,Foggy,25,60,2.4,Yes,8,Working,217037,20003,Poor,354,232,No,Night,Yes
+RT0460,Dilsukhnagar,Abids,2025-03-22,2:15,Saturday,March,Q1,1210,499,122,10,334,33,31,15.8,Medium,Cloudy,25,40,1.7,No,0,Malfunctioning,238720,7086,Poor,1136,116,No,Night,Yes
+RT0461,Hyderabad,Secunderabad,2025-04-28,3:45,Monday,April,Q2,1141,316,157,48,73,38,44,16.3,Low,Partly Cloudy,30,68,2.7,No,4,Working,714353,19731,Poor,529,216,No,Night,No
+RT0462,Hyderabad,Secunderabad,2025-01-31,12:15,Friday,January,Q1,1496,416,126,28,203,59,49,34.8,Medium,Foggy,31,52,0.4,No,0,Under Maintenance,726558,11354,Good,633,137,No,Afternoon,No
+RT0463,Kukatpally,Madhapur,2025-10-01,2:45,Wednesday,October,Q4,980,386,160,64,123,39,50,43,Low,Cloudy,31,71,2,No,4,Malfunctioning,322011,16752,Average,414,120,No,Night,No
+RT0464,Kukatpally,Madhapur,2025-01-18,16:15,Saturday,January,Q1,830,527,168,25,322,12,32,24.8,Medium,Clear,31,56,2.3,No,1,Working,436939,3323,Average,300,136,No,Afternoon,Yes
+RT0465,Gachibowli,Hitech City,2025-03-13,16:00,Thursday,March,Q1,750,659,299,49,300,11,52,35.7,Medium,Rainy,37,52,15.2,No,1,Under Maintenance,483443,15765,Poor,470,128,No,Afternoon,No
+RT0466,Uppal,Hitech City,2025-12-29,23:45,Monday,December,Q4,1601,240,95,43,54,48,51,15.7,Low,Partly Cloudy,38,82,0.8,No,5,Malfunctioning,538131,11162,Good,956,220,No,Night,No
+RT0467,Uppal,Hitech City,2025-10-27,15:30,Monday,October,Q4,1261,556,287,46,191,32,39,38.6,Medium,Clear,29,61,2.3,No,5,Working,233335,5513,Poor,591,63,No,Afternoon,No
+RT0468,LB Nagar,Koti,2025-02-09,4:00,Sunday,February,Q1,1809,608,282,11,267,48,45,32.4,Medium,Foggy,23,60,0,No,5,Malfunctioning,157644,16925,Good,1194,231,No,Night,Yes
+RT0469,Dilsukhnagar,Abids,2025-12-27,12:00,Saturday,December,Q4,737,627,259,31,318,19,41,47.8,Medium,Foggy,31,38,1.3,No,2,Working,268733,14074,Average,611,178,No,Afternoon,Yes
+RT0470,LB Nagar,Koti,2025-07-24,5:45,Thursday,July,Q3,2036,305,165,37,51,52,42,19.8,Low,Rainy,36,87,22.3,No,4,Under Maintenance,661984,4884,Average,828,41,No,Early Morning,No
+RT0471,Begumpet,Banjara Hills,2025-08-13,6:30,Wednesday,August,Q3,1371,374,84,10,229,51,41,10.4,Low,Partly Cloudy,35,47,0.3,No,1,Working,580670,7058,Poor,1098,41,No,Early Morning,No
+RT0472,Uppal,Hitech City,2025-06-20,18:15,Friday,June,Q2,1053,570,282,57,203,28,32,46.5,Medium,Clear,34,77,2.5,No,2,Working,605040,3190,Good,835,221,Yes,Evening,No
+RT0473,Hyderabad,Secunderabad,2025-05-10,9:30,Saturday,May,Q2,1593,525,148,60,265,52,20,40,Medium,Partly Cloudy,28,42,1.3,No,5,Malfunctioning,899019,7175,Poor,765,232,Yes,Morning,Yes
+RT0474,Kukatpally,Madhapur,2025-09-23,10:15,Tuesday,September,Q3,626,275,135,12,114,14,15,44.5,Low,Cloudy,21,78,2.5,No,4,Malfunctioning,158418,17232,Average,1083,114,Yes,Morning,No
+RT0475,Miyapur,Ameerpet,2025-02-26,9:45,Wednesday,February,Q1,754,752,396,29,311,16,18,48.9,High,Cloudy,33,47,1.4,No,0,Under Maintenance,885203,19460,Poor,471,88,Yes,Morning,No
+RT0476,Kukatpally,Madhapur,2025-04-12,12:15,Saturday,April,Q2,588,249,97,61,69,22,43,10.8,Low,Cloudy,22,90,0.2,No,2,Malfunctioning,884169,23752,Average,573,96,No,Afternoon,Yes
+RT0477,Kondapur,Gachibowli,2025-11-24,3:00,Monday,November,Q4,594,481,248,16,205,12,38,52.4,Medium,Partly Cloudy,27,55,2.7,No,0,Malfunctioning,204662,24640,Average,758,94,No,Night,No
+RT0478,Mehdipatnam,Jubilee Hills,2025-07-11,6:00,Friday,July,Q3,1098,495,124,42,301,28,33,14.4,Medium,Clear,37,84,2.6,No,5,Malfunctioning,528939,22297,Good,1183,194,No,Early Morning,No
+RT0479,Dilsukhnagar,Abids,2025-07-08,9:15,Tuesday,July,Q3,733,414,276,21,104,13,18,11.8,Medium,Cloudy,26,80,1.3,No,4,Malfunctioning,799079,14236,Good,717,225,Yes,Morning,No
+RT0480,Gachibowli,Hitech City,2025-04-15,21:00,Tuesday,April,Q2,1644,572,128,63,331,50,41,50.3,Medium,Partly Cloudy,23,62,0.2,No,4,Working,172937,8470,Average,661,218,No,Night,No
+RT0481,Miyapur,Ameerpet,2025-02-01,0:00,Saturday,February,Q1,2221,688,233,73,322,60,35,29.7,Medium,Foggy,32,70,2.3,No,2,Under Maintenance,366976,9031,Good,107,80,No,Night,Yes
+RT0482,Kondapur,Gachibowli,2025-01-07,1:45,Tuesday,January,Q1,1598,605,298,43,205,59,52,22.1,Medium,Clear,25,49,0.1,No,0,Malfunctioning,820685,7854,Good,668,74,No,Night,No
+RT0483,Kondapur,Gachibowli,2025-06-19,23:15,Thursday,June,Q2,1871,371,89,10,227,45,40,13.7,Low,Foggy,28,81,0.4,No,2,Malfunctioning,490404,4876,Good,121,250,No,Night,No
+RT0484,LB Nagar,Koti,2025-07-10,22:15,Thursday,July,Q3,730,475,38,78,348,11,57,38.2,Medium,Foggy,37,48,2.5,No,2,Malfunctioning,363824,22059,Good,909,79,No,Night,No
+RT0485,Gachibowli,Hitech City,2025-10-24,5:30,Friday,October,Q4,834,615,275,21,303,16,56,48.8,Medium,Cloudy,38,66,2.8,No,2,Malfunctioning,172069,13163,Poor,433,85,No,Early Morning,No
+RT0486,Gachibowli,Hitech City,2025-05-09,5:00,Friday,May,Q2,1488,339,66,64,175,34,33,42.6,Low,Cloudy,20,73,0.3,No,0,Working,164210,24118,Good,189,73,No,Early Morning,No
+RT0487,Dilsukhnagar,Abids,2025-07-02,17:15,Wednesday,July,Q3,1120,240,86,11,104,39,21,16.3,Low,Foggy,34,87,0.5,No,1,Under Maintenance,405652,4830,Good,647,200,Yes,Evening,No
+RT0488,Kukatpally,Madhapur,2025-01-15,11:00,Wednesday,January,Q1,1991,573,181,23,311,58,30,51,Medium,Clear,27,62,1.2,No,2,Working,386856,15607,Good,330,165,No,Morning,No
+RT0489,LB Nagar,Koti,2025-06-03,6:00,Tuesday,June,Q2,573,463,212,19,220,12,58,12,Medium,Cloudy,25,62,1.6,No,5,Malfunctioning,595901,7922,Average,717,199,No,Early Morning,No
+RT0490,Uppal,Hitech City,2025-03-12,22:30,Wednesday,March,Q1,972,405,218,43,89,55,54,39.5,Medium,Rainy,24,59,11.2,No,3,Malfunctioning,220583,6708,Good,975,226,No,Night,No
+RT0491,Gachibowli,Hitech City,2025-03-03,17:30,Monday,March,Q1,1108,487,173,59,230,25,30,41.2,Medium,Partly Cloudy,30,43,2.4,No,1,Under Maintenance,551798,16718,Average,1118,177,Yes,Evening,No
+RT0492,Mehdipatnam,Jubilee Hills,2025-12-30,12:15,Tuesday,December,Q4,1595,459,72,84,265,38,52,13.9,Medium,Rainy,20,48,24.8,Yes,8,Malfunctioning,290082,6609,Good,222,129,No,Afternoon,No
+RT0493,Gachibowli,Hitech City,2025-07-21,4:45,Monday,July,Q3,1445,500,245,41,157,57,53,16.2,Medium,Cloudy,32,81,0.1,No,2,Under Maintenance,206710,6473,Good,251,162,No,Night,No
+RT0494,Begumpet,Banjara Hills,2025-01-21,14:15,Tuesday,January,Q1,475,306,102,20,175,9,56,46.6,Low,Cloudy,25,65,2.2,No,5,Malfunctioning,464056,18407,Average,942,224,No,Afternoon,No
+RT0495,Kukatpally,Madhapur,2025-01-10,0:30,Friday,January,Q1,1074,235,109,17,66,43,35,10.5,Low,Partly Cloudy,34,70,2.1,No,4,Working,676251,13028,Average,565,148,No,Night,No
+RT0496,Gachibowli,Hitech City,2025-03-04,18:45,Tuesday,March,Q1,1035,796,460,37,255,44,27,18.3,High,Foggy,22,87,2.1,No,5,Working,823071,16274,Average,879,82,Yes,Evening,No
+RT0497,LB Nagar,Koti,2025-10-17,14:15,Friday,October,Q4,1146,225,85,23,89,28,30,20.8,Low,Cloudy,37,41,0.2,No,2,Working,346863,21077,Good,513,203,No,Afternoon,No
+RT0498,Dilsukhnagar,Abids,2025-07-03,18:00,Thursday,July,Q3,2019,777,369,15,338,55,16,24.2,High,Rainy,20,57,18.8,No,4,Malfunctioning,354350,13304,Good,900,225,Yes,Evening,No
+RT0499,Mehdipatnam,Jubilee Hills,2025-03-08,11:30,Saturday,March,Q1,1397,672,287,22,307,56,48,45.8,Medium,Partly Cloudy,38,90,2.6,No,1,Working,865520,18175,Poor,261,200,No,Morning,Yes
+RT0500,Gachibowli,Hitech City,2025-06-08,2:15,Sunday,June,Q2,2201,551,112,74,314,51,59,44.6,Medium,Partly Cloudy,24,56,0.9,No,3,Under Maintenance,191956,15701,Poor,589,93,No,Night,Yes
